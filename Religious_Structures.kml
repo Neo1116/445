@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Religious_Structures" id="Religious_Structures">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Elevation" type="float"></SimpleField>
+	<SimpleField name="SHAPESTArea" type="float"></SimpleField>
+	<SimpleField name="SHAPESTLength" type="float"></SimpleField>
+</Schema>
+<Folder><name>Religious_Structures</name>
+  <Placemark>
+	<name>Alpha &amp; Omega Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Elevation">768.42700195</SimpleData>
+		<SimpleData name="SHAPESTArea">4512.97178391338</SimpleData>
+		<SimpleData name="SHAPESTLength">275.425127689037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2483949255264,40.1273320102031 -88.248094033741,40.1273318215585 -88.2480938764267,40.127479372235 -88.2483934923588,40.1274795599445 -88.2483949255264,40.1273320102031</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Alpha &amp; Omega Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Elevation">766.45697021</SimpleData>
+		<SimpleData name="SHAPESTArea">4387.74221162997</SimpleData>
+		<SimpleData name="SHAPESTLength">265.390370770555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2483934923588,40.1274795599445 -88.2483934657037,40.127504745834 -88.2486177187005,40.1275048857718 -88.2486179226025,40.1273122778831 -88.2483949467394,40.1273121388826 -88.2483949255264,40.1273320102031 -88.2483934923588,40.1274795599445</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Emmanuel Memorial Episcopal Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="Elevation">756.41638183</SimpleData>
+		<SimpleData name="SHAPESTArea">14358.1891332761</SimpleData>
+		<SimpleData name="SHAPESTLength">777.931316941573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2460448655165,40.1164761748443 -88.246045165267,40.1167601085625 -88.2464002339727,40.1167598865766 -88.2464002128205,40.116740569973 -88.2465347304719,40.1167404862337 -88.2465347540878,40.1167625083142 -88.2465771912529,40.1167624815693 -88.246577186355,40.1167571048391 -88.2466506314082,40.1167570589604 -88.2466505669895,40.1166960037963 -88.2465566272272,40.1166960622408 -88.2465565974767,40.1166677862209 -88.246470003538,40.1166678410925 -88.2464700331712,40.1166961810567 -88.2464033720698,40.1166962229067 -88.2464032881237,40.11661751189 -88.2464817995276,40.1166174627158 -88.2464817524834,40.1165732978699 -88.2466539652967,40.1165731900165 -88.2466538827146,40.116495948818 -88.2464888445944,40.1164960530451 -88.246488795761,40.1164505246519 -88.246427855961,40.1164505627002 -88.2464278437848,40.1164389329302 -88.2463928511208,40.1164389544014 -88.2463928683707,40.1164558068952 -88.2463825019535,40.1164558126226 -88.2463603395473,40.116473006011 -88.246360355096,40.1164875042717 -88.2463728681966,40.1165013427526 -88.246277884669,40.1165014019888 -88.2462778981172,40.1165138540295 -88.246224965642,40.1165138871819 -88.2462249247507,40.1164760627345 -88.2460448655165,40.1164761748443</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Prebyterian Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="Elevation">777.49365234</SimpleData>
+		<SimpleData name="SHAPESTArea">8940.66551923389</SimpleData>
+		<SimpleData name="SHAPESTLength">447.670737315629</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2470003946803,40.1185514389798 -88.2470014910565,40.1186622003267 -88.2471740141088,40.1186611931103 -88.2471741847402,40.1186784320793 -88.24721879012,40.1186781716498 -88.2472188785261,40.1186871356251 -88.2473639448618,40.1186862887333 -88.2473638427866,40.1186760539675 -88.2474086687103,40.1186757918272 -88.2474059583839,40.1184021505482 -88.2473566701264,40.1184024381951 -88.2473564911217,40.1183843598377 -88.2472163747814,40.1183851779787 -88.2472165391684,40.1184017955133 -88.247169192409,40.1184020719152 -88.2471706615559,40.1185504444964 -88.2470003946803,40.1185514389798</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First United Methodist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="Elevation">815.09875488</SimpleData>
+		<SimpleData name="SHAPESTArea">20657.7570894692</SimpleData>
+		<SimpleData name="SHAPESTLength">701.377170726986</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2460212727231,40.1187132549997 -88.2462414891926,40.1187108720381 -88.2462417162359,40.1187232485823 -88.2464276446624,40.1187212366535 -88.2464274242125,40.1187091834385 -88.2467177535681,40.1187060397971 -88.2467117711073,40.1183803111734 -88.24647942685,40.1183828264329 -88.2464793598938,40.1183792085763 -88.2462494873917,40.1183816973088 -88.2462523930479,40.1185399643355 -88.2461232465116,40.1185413612974 -88.2461216583401,40.1184548803911 -88.2460165503543,40.1184560170398 -88.2460212727231,40.1187132549997</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Church Of Christ Scientist</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="Elevation">780.28045654</SimpleData>
+		<SimpleData name="SHAPESTArea">11231.2558990127</SimpleData>
+		<SimpleData name="SHAPESTLength">587.121958272968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2522637432473,40.1187886781512 -88.2523400181896,40.1187891890329 -88.2523429434285,40.1185315360836 -88.252158884782,40.1185303039643 -88.2521592189443,40.1185008528948 -88.2521257634561,40.118500628603 -88.252125967817,40.1184826757085 -88.2520336218259,40.1184820570392 -88.2520334160724,40.1185001738461 -88.2520007559425,40.1184999554802 -88.2519985607234,40.1186932215299 -88.2520150357115,40.118693332167 -88.2520147054055,40.118722447305 -88.2520009320551,40.1187223556769 -88.2519994786421,40.1188502963872 -88.2521028323355,40.1188509885502 -88.2521025479647,40.1188760365024 -88.2522627384519,40.1188771088076 -88.2522637432473,40.1187886781512</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>-88.2522512901604,40.1186933257842 -88.2522513665517,40.118724813451 -88.2521115764308,40.1187250109081 -88.2521115012771,40.1186935232421 -88.2522512901604,40.1186933257842</coordinates></LinearRing></innerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Presbyterian Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="Elevation">795.07800292</SimpleData>
+		<SimpleData name="SHAPESTArea">8403.04239153959</SimpleData>
+		<SimpleData name="SHAPESTLength">446.703484926761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2473831011927,40.1190295640317 -88.2473825845961,40.1190010201767 -88.2474161143317,40.1189825138183 -88.2474423018427,40.1189600383598 -88.2474391473373,40.1187857004566 -88.2474156168721,40.118769118729 -88.2473166368449,40.1187701746431 -88.2472933874218,40.1187884580512 -88.2472947298586,40.1188626011079 -88.2470658822898,40.1188650417865 -88.2470656860214,40.1188541864208 -88.2470173860802,40.1188547016164 -88.2470180790459,40.1188930110698 -88.2470283849636,40.1188929007682 -88.2470303805579,40.1190032160689 -88.2470024671379,40.1190035140866 -88.2470033531061,40.1190524654542 -88.2470738781229,40.1190517128434 -88.2470735370999,40.1190328661349 -88.2473831011927,40.1190295640317</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Deliverance Temple Apostolic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="Elevation">745.08984375</SimpleData>
+		<SimpleData name="SHAPESTArea">1870.81527235503</SimpleData>
+		<SimpleData name="SHAPESTLength">201.46470465374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2354998037796,40.1205680907656 -88.2352664709271,40.1205591762947 -88.2352620079319,40.1206280242854 -88.2354154240175,40.1206338847597 -88.2354135968685,40.1206620862412 -88.2354935127313,40.1206651393465 -88.2354998037796,40.1205680907656</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Sheriffs Temple</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="Elevation">748.81921386</SimpleData>
+		<SimpleData name="SHAPESTArea">3940.72919974111</SimpleData>
+		<SimpleData name="SHAPESTLength">267.921501823794</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2301417013371,40.1219867247469 -88.2301799153618,40.1219863553096 -88.230180426759,40.1220174741015 -88.2302895737012,40.1220164184645 -88.2302888731362,40.1219738012469 -88.2303203425369,40.1219734969115 -88.2303172578301,40.1217856916889 -88.2301384291997,40.1217874228962 -88.2301417013371,40.1219867247469</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Church of the Redeemer</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="Elevation">751.36712646</SimpleData>
+		<SimpleData name="SHAPESTArea">1578.27948935137</SimpleData>
+		<SimpleData name="SHAPESTLength">161.202159639678</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2290043156681,40.1219259557121 -88.2290040764398,40.1220179955958 -88.22917239698,40.1220182533721 -88.2291726359826,40.1219262125871 -88.2290043156681,40.1219259557121</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Free Will Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="Elevation">749.18499755</SimpleData>
+		<SimpleData name="SHAPESTArea">757.290332973596</SimpleData>
+		<SimpleData name="SHAPESTLength">110.110905996348</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2301309181273,40.1226792665014 -88.2301325032713,40.1227567359184 -88.2302284345359,40.1227555794011 -88.2302268504562,40.1226781099861 -88.2301309181273,40.1226792665014</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Free Will Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="Elevation">747.91107177</SimpleData>
+		<SimpleData name="SHAPESTArea">175.480669944208</SimpleData>
+		<SimpleData name="SHAPESTLength">53.1452556760759</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2301278797135,40.1228134188228 -88.2301252606639,40.1227741916475 -88.2300814645193,40.1227759142299 -88.2300840835423,40.1228151423068 -88.2301278797135,40.1228134188228</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Hope Church Of God In Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="Elevation">747.79504394</SimpleData>
+		<SimpleData name="SHAPESTArea">2604.14742401591</SimpleData>
+		<SimpleData name="SHAPESTLength">211.188863421123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.232508590008,40.1229381230717 -88.2325701527454,40.1229372571129 -88.232570354947,40.1229457177429 -88.2325905716115,40.1229454327208 -88.2325908367813,40.1229565394364 -88.2327005326112,40.1229549956688 -88.2327002320768,40.1229424001926 -88.2327077312017,40.1229422941305 -88.2327047953159,40.1228193538137 -88.2325770347304,40.122821152058 -88.2325769982811,40.1228196173644 -88.2325057837109,40.1228206199249 -88.232508590008,40.1229381230717</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Grove Street Church of God in Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="Elevation">754.51641845</SimpleData>
+		<SimpleData name="SHAPESTArea">4207.80763603456</SimpleData>
+		<SimpleData name="SHAPESTLength">268.614113189907</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2317869638538,40.1229614302699 -88.231964973032,40.1229621283846 -88.2319665177908,40.1227301003849 -88.231788509219,40.1227294013727 -88.2317869638538,40.1229614302699</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Free Will Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="Elevation">749.54998779</SimpleData>
+		<SimpleData name="SHAPESTArea">2166.41742353669</SimpleData>
+		<SimpleData name="SHAPESTLength">207.321702997103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2302600483735,40.1227740685148 -88.2301500288202,40.1227733923483 -88.2301480778245,40.1229604149182 -88.2301778211951,40.1229605981224 -88.2301776841268,40.1229736660423 -88.2302246660631,40.1229739546495 -88.2302247786365,40.1229631166507 -88.2302580743676,40.1229633210092 -88.2302600483735,40.1227740685148</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Macedonia Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="Elevation">744.17999267</SimpleData>
+		<SimpleData name="SHAPESTArea">157.309576647578</SimpleData>
+		<SimpleData name="SHAPESTLength">50.2363232645996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2333871822018,40.1237225527998 -88.233386514425,40.1236898623085 -88.2333392902221,40.1236904303665 -88.233339957975,40.1237231217587 -88.2333871822018,40.1237225527998</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Luke Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="Elevation">746.62585449</SimpleData>
+		<SimpleData name="SHAPESTArea">2176.03057658986</SimpleData>
+		<SimpleData name="SHAPESTLength">205.214232395391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2322892667887,40.1237793922024 -88.2322647046912,40.123779455429 -88.2322649539612,40.1238369171973 -88.2322907197819,40.1238368514183 -88.2322907364393,40.1238406565652 -88.232405180942,40.1238403645839 -88.2324049055396,40.1237766938978 -88.2324395301641,40.1237766051843 -88.232439167137,40.1236928253098 -88.2322888934251,40.1236932094562 -88.2322892667887,40.1237793922024</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Macedonia Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="Elevation">743.98114013</SimpleData>
+		<SimpleData name="SHAPESTArea">4574.23815918594</SimpleData>
+		<SimpleData name="SHAPESTLength">274.443627217482</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2333624201431,40.1239032000121 -88.2333644620284,40.124051022831 -88.2336572198106,40.1240486399386 -88.2336749128311,40.1239514194013 -88.2336635997708,40.1239007487203 -88.2333624201431,40.1239032000121</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Luke Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="Elevation">762.92852783</SimpleData>
+		<SimpleData name="SHAPESTArea">3237.04142681913</SimpleData>
+		<SimpleData name="SHAPESTLength">244.834531311536</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2322614792431,40.1240030917202 -88.2322725541576,40.1240031455153 -88.2322719883572,40.1240714996052 -88.2324115535347,40.1240721796928 -88.2324133764328,40.1238517799175 -88.2322704094635,40.1238510824539 -88.2322696877573,40.1239383639029 -88.2322620151014,40.1239383265861 -88.2322614792431,40.1240030917202</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Church of Living God</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="Elevation">749.92254638</SimpleData>
+		<SimpleData name="SHAPESTArea">7143.19425181556</SimpleData>
+		<SimpleData name="SHAPESTLength">488.403620715749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2343741271068,40.1270971260843 -88.2343740522554,40.1270031082323 -88.234391635767,40.1270030998393 -88.2343916115341,40.1269728785284 -88.2342545031475,40.1269729423382 -88.2342543998491,40.1268428716378 -88.2342599551789,40.1268428691854 -88.2342598668433,40.1267315782771 -88.2341287495359,40.1267316398581 -88.234128784684,40.1267760639977 -88.2341501178352,40.1267760534496 -88.234150171736,40.1268431039458 -88.2341372061706,40.1268431099531 -88.2341373271433,40.1269955755489 -88.2340215085197,40.1269956293965 -88.2340215881876,40.1270972908362 -88.2343741271068,40.1270971260843</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Church of the Living God Pillar and Ground of the Truth</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="Elevation">749.0817871</SimpleData>
+		<SimpleData name="SHAPESTArea">2555.8964841725</SimpleData>
+		<SimpleData name="SHAPESTLength">213.618303228535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.234194178196,40.1273864286549 -88.2341973234558,40.1275263169305 -88.2343416746451,40.1275244040976 -88.2343408965172,40.127489802418 -88.234396213197,40.1274890697482 -88.2343951000089,40.1274395435673 -88.2343783490885,40.1274397652191 -88.2343770947772,40.1273840048082 -88.234194178196,40.1273864286549</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Mt Olive Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="Elevation">747.86523437</SimpleData>
+		<SimpleData name="SHAPESTArea">15759.442129419</SimpleData>
+		<SimpleData name="SHAPESTLength">755.56242026352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2257122240342,40.1274991579255 -88.2257153482226,40.127630969621 -88.2259271428898,40.1276280104542 -88.225928556652,40.1276876581858 -88.2257130342655,40.1276906688291 -88.2257162234465,40.1278251689385 -88.2258582525476,40.1278231852674 -88.2258585903342,40.1278374118119 -88.226004522994,40.1278353730434 -88.2260042214767,40.1278226838954 -88.2262310442229,40.1278195147449 -88.2262269386107,40.1276919161718 -88.2262105005092,40.1276250955002 -88.2262473440506,40.1276245810943 -88.2262441934893,40.1274917246661 -88.2257122240342,40.1274991579255</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>-88.226102855751,40.127628356105 -88.2261684912819,40.1276284826033 -88.2261828483441,40.1276883440473 -88.2261026608328,40.1276881896745 -88.226102855751,40.127628356105</coordinates></LinearRing></innerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Church of the Brethren</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="Elevation">754.65307617</SimpleData>
+		<SimpleData name="SHAPESTArea">514.343189450452</SimpleData>
+		<SimpleData name="SHAPESTLength">90.7588492523844</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2430413618061,40.1278948695598 -88.2431249374113,40.1278928038154 -88.2431224043312,40.1278324511319 -88.2430388299731,40.1278345168755 -88.2430413618061,40.1278948695598</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Mt Olive Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="Elevation">750.85186767</SimpleData>
+		<SimpleData name="SHAPESTArea">8667.373489543</SimpleData>
+		<SimpleData name="SHAPESTLength">443.949609001728</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2258440156303,40.1278436332943 -88.2258451488366,40.1279197171224 -88.2257676218792,40.1279203971619 -88.2257683210313,40.1279673634659 -88.2258473134726,40.1279666703761 -88.2258484424763,40.1280424461858 -88.2258653788337,40.1280422970892 -88.2258659507404,40.1280807046595 -88.2259799693818,40.1280797044417 -88.2259793814187,40.1280402755513 -88.2261004396958,40.1280392132927 -88.2261007686889,40.1280613085653 -88.226171734798,40.1280606852758 -88.226171574452,40.1280499758272 -88.2262255267548,40.1280495015746 -88.2262224103794,40.1278403129383 -88.2258440156303,40.1278436332943</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Church of the Brethren</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="Elevation">771.45776367</SimpleData>
+		<SimpleData name="SHAPESTArea">4570.83237941418</SimpleData>
+		<SimpleData name="SHAPESTLength">318.777623882973</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2433963531522,40.1281744621165 -88.2431725034964,40.128172868684 -88.2431728578551,40.1281435401913 -88.2430559602224,40.1281427079151 -88.2430538337846,40.1283186635562 -88.2431726324031,40.1283195090226 -88.2431730961359,40.1282811041434 -88.2433950466365,40.1282826843919 -88.2433963531522,40.1281744621165</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>House of Prayer</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="Elevation">742.94396972</SimpleData>
+		<SimpleData name="SHAPESTArea">1427.74947449881</SimpleData>
+		<SimpleData name="SHAPESTLength">160.392145507907</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2367549545418,40.1283320349492 -88.2367601580574,40.128331999661 -88.2367603890186,40.1283520197878 -88.2368478714669,40.1283514235415 -88.2368476477048,40.1283321023038 -88.2368546146666,40.1283320549712 -88.2368531771854,40.1282077327638 -88.2367582246344,40.1282083795244 -88.236758372978,40.1282212828648 -88.2367536751552,40.1282213149721 -88.2367549545418,40.1283320349492</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Powerhouse Church of God</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="Elevation">750.52551269</SimpleData>
+		<SimpleData name="SHAPESTArea">4127.71241029651</SimpleData>
+		<SimpleData name="SHAPESTLength">287.58160255325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2420792712039,40.1287301353157 -88.2420787410043,40.1287045995535 -88.2421727046234,40.1287034487078 -88.2421715404591,40.1286474425925 -88.2421861398011,40.1286472640521 -88.2421848906615,40.1285872320877 -88.2420038568577,40.1285894499976 -88.2420042173088,40.1286067926654 -88.2418555312453,40.1286086152575 -88.2418581148786,40.1287328455384 -88.2420792712039,40.1287301353157</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Pilgrim Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="Elevation">749.53497314</SimpleData>
+		<SimpleData name="SHAPESTArea">16396.3555822458</SimpleData>
+		<SimpleData name="SHAPESTLength">681.513083681726</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2294125913524,40.1297580558381 -88.2297261293944,40.1297595282822 -88.229727783873,40.1296922127636 -88.229747961292,40.1296928261238 -88.2297504817238,40.1295659388279 -88.2297256457351,40.1295665128236 -88.2297202821006,40.1294748940401 -88.2297275413832,40.1294748140748 -88.2297265775316,40.1294234201106 -88.2297547205794,40.1294231084516 -88.2297523074411,40.1292945857104 -88.2297273229948,40.1292948623685 -88.2297263504841,40.1292429910652 -88.229465755181,40.1292458728921 -88.2294667253883,40.1292975856859 -88.2294153356149,40.1292981538096 -88.2294191121599,40.1294994273353 -88.2294091050218,40.1294995075174 -88.2294125913524,40.1297580558381</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>-88.2296753049963,40.1294973630408 -88.2295278730607,40.1294985512993 -88.2295274693393,40.129477026969 -88.229678396025,40.1294753573043 -88.2296753049963,40.1294973630408</coordinates></LinearRing></innerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Apostolic Faith Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="Elevation">744.37756347</SimpleData>
+		<SimpleData name="SHAPESTArea">3329.46555754688</SimpleData>
+		<SimpleData name="SHAPESTLength">262.087337747921</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2377946696661,40.1296540813419 -88.2377155361582,40.1296544942642 -88.2377153396032,40.1296323252877 -88.2376616984932,40.1296326061121 -88.2376618838986,40.1296535097053 -88.2376250444896,40.1296537026209 -88.2376268931528,40.1298623233584 -88.2377575714913,40.1298616405307 -88.2377567245118,40.1297660432965 -88.237795659506,40.1297658394591 -88.2377946696661,40.1296540813419</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>University Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="Elevation">761.69000244</SimpleData>
+		<SimpleData name="SHAPESTArea">3986.10062111094</SimpleData>
+		<SimpleData name="SHAPESTLength">328.256910256718</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2343628328214,40.1081575321269 -88.2343915689929,40.1081570829486 -88.2343923897202,40.1081880678682 -88.2344702703011,40.1081868518782 -88.2344705038796,40.1081956493873 -88.2345306494114,40.1081947109211 -88.2345304625536,40.1081876651685 -88.2345489248375,40.1081873774051 -88.2345492417706,40.1081993722055 -88.2346766984123,40.1081973814805 -88.2346763947668,40.1081859162595 -88.2347195735211,40.1081852415355 -88.2347194255516,40.1081796809477 -88.2347484514493,40.1081792274245 -88.2347468174669,40.1081175457966 -88.2347144099758,40.1081180513784 -88.2347136336413,40.1080887137426 -88.2347022642218,40.1080888913917 -88.2347021285005,40.1080837847296 -88.2346709878111,40.1080842715643 -88.2346711435627,40.1080901257627 -88.2346551867291,40.108090375152 -88.2346549019928,40.1080796259442 -88.2345625449714,40.1080810674796 -88.2345627262529,40.1080879159905 -88.2345503469212,40.1080881098754 -88.2345499754685,40.1080740733102 -88.2345120586438,40.1080746650998 -88.2345124823632,40.1080906731789 -88.2345006191303,40.1080908584926 -88.2345004767802,40.1080854798357 -88.2344691601476,40.1080859682672 -88.2344692936151,40.1080909992752 -88.2344547713015,40.1080912255444 -88.2344546512307,40.1080866637738 -88.2343891325008,40.1080876867727 -88.2343893593963,40.1080962321012 -88.234361220283,40.1080966718823 -88.2343628328214,40.1081575321269</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>University Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="Elevation">789.23999023</SimpleData>
+		<SimpleData name="SHAPESTArea">3294.61095545241</SimpleData>
+		<SimpleData name="SHAPESTLength">267.536601807576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2341565275814,40.1081973893643 -88.2341592352696,40.1082058791772 -88.2341205583926,40.1082064152497 -88.2341261403557,40.1083218694082 -88.23436221498,40.1083216219574 -88.234360476316,40.1082781842063 -88.2343801803358,40.1082781866316 -88.2343806973904,40.1083001848503 -88.234410363766,40.1082972984689 -88.2344103556131,40.108266489866 -88.2343917845991,40.1082689480219 -88.2343869890699,40.1082021715528 -88.234356919684,40.108203138351 -88.2343563994774,40.108196268836 -88.2341565275814,40.1081973893643</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>University Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="Elevation">760.4500122</SimpleData>
+		<SimpleData name="SHAPESTArea">3423.08795142846</SimpleData>
+		<SimpleData name="SHAPESTLength">256.972223651693</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2339266217986,40.1082878897663 -88.2339451390836,40.1082877093207 -88.2339457342177,40.1083236600978 -88.2340911466503,40.1083222402086 -88.2340905859538,40.1082883672046 -88.2341018051739,40.1082882579344 -88.2340992538663,40.1081342181712 -88.2340355267268,40.1081348399253 -88.2340350253462,40.1081045595659 -88.2339803639017,40.1081050935951 -88.2339808458541,40.1081341995224 -88.2339240859922,40.10813475334 -88.2339266217986,40.1082878897663</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>University Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="Elevation">767.97698974</SimpleData>
+		<SimpleData name="SHAPESTArea">6169.9010006872</SimpleData>
+		<SimpleData name="SHAPESTLength">333.128523514094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2336769213844,40.1083942281918 -88.2338756919179,40.1083918844962 -88.2338696011151,40.1080873255586 -88.2336708314679,40.1080896692449 -88.2336769213844,40.1083942281918</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Community United Church of Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="Elevation">769.40997314</SimpleData>
+		<SimpleData name="SHAPESTArea">9952.23771155768</SimpleData>
+		<SimpleData name="SHAPESTLength">446.053344938028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2308366129065,40.1083029461084 -88.230786455197,40.1083027846308 -88.2307821595983,40.1081350789637 -88.2307394758588,40.1081349420954 -88.2307397025311,40.1080933649212 -88.2307119151924,40.1080727844292 -88.2306735677757,40.1080726603847 -88.2306489346052,40.1080909851908 -88.2306488734231,40.1081020322086 -88.2306108368136,40.1081019093196 -88.2306108208928,40.1081046958407 -88.2305195642258,40.1081044014241 -88.2305184100018,40.10831556915 -88.2305001710446,40.1083155106291 -88.2304998537039,40.1083735817749 -88.2305301878722,40.1083736789512 -88.2305298280642,40.1084397187925 -88.2308358607289,40.1084407042086 -88.2308366129065,40.1083029461084</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Hillel Foundation</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="Elevation">767.0960083</SimpleData>
+		<SimpleData name="SHAPESTArea">12255.338201351</SimpleData>
+		<SimpleData name="SHAPESTLength">481.264793876003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2318173541238,40.1089228709118 -88.231817417461,40.1087729591736 -88.2318041644517,40.1087729565634 -88.2318041886894,40.1087148419307 -88.2318294220491,40.1087148478354 -88.2318366996082,40.108678887738 -88.2318367208711,40.1086274908666 -88.2317863750297,40.1086274782602 -88.2317863808266,40.1086133258378 -88.2314404346034,40.1086132399749 -88.2314279597775,40.1086490603815 -88.2314279509789,40.1086683184465 -88.2313844210298,40.1086683080594 -88.2313843990702,40.108722300532 -88.231394924993,40.108722303492 -88.2314061419973,40.1088793238874 -88.2315887065956,40.1088886257483 -88.2316092368906,40.1089238258097 -88.2316616969009,40.1088999935908 -88.2316616875284,40.108922832541 -88.2318173541238,40.1089228709118</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>McKinley Presbyterian Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="Elevation">764.15197753</SimpleData>
+		<SimpleData name="SHAPESTArea">31512.8566581259</SimpleData>
+		<SimpleData name="SHAPESTLength">1623.95256103425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2323238321295,40.1089622315315 -88.2324857331049,40.1089574281758 -88.2324845605665,40.1089341234739 -88.2325019607147,40.1089336072538 -88.2325000406787,40.1088954334771 -88.2324957404959,40.1088955612248 -88.2324812563585,40.1086077285555 -88.2324767544401,40.1086078624312 -88.2324729103967,40.1083984366546 -88.2324453347674,40.1083992547235 -88.2324438078643,40.108368914925 -88.2324288734668,40.108369357632 -88.2324270833399,40.108333796678 -88.2324438965719,40.1083223679773 -88.2325534693683,40.1083191166437 -88.2325543593183,40.1083368075031 -88.23266511567,40.1083335210686 -88.2326765981005,40.1085455634921 -88.2326783393429,40.1085801634311 -88.2326620313349,40.1085806473039 -88.2326717938807,40.1087746523001 -88.2326805291232,40.1087743933062 -88.2326824618393,40.1088127841424 -88.2326660951263,40.108813269766 -88.2326710066141,40.108910871203 -88.2326819388859,40.1089105465715 -88.2326831536634,40.1089346834861 -88.2328904492898,40.1089285329403 -88.2328894806057,40.1089092830345 -88.2329086484412,40.1089087142487 -88.232903750293,40.1088113821201 -88.232886785358,40.1088118852686 -88.2328849368986,40.1087751435539 -88.2329037269941,40.1087745861495 -88.2328939626336,40.1085805694629 -88.2328863675583,40.1085807943373 -88.23288462849,40.1085462394345 -88.232901928832,40.1085457266701 -88.2328939867618,40.1083879221026 -88.2328509629757,40.1083891987988 -88.2328476410422,40.1083231710655 -88.2328680743594,40.1083225646572 -88.2328644389857,40.1082503322429 -88.2328531948087,40.1082506656274 -88.2328465417919,40.1081184615456 -88.2327615783883,40.1081209816047 -88.2327620638672,40.1081306151163 -88.2327056987998,40.1081322872565 -88.2327091550775,40.108200971958 -88.2324366252719,40.1082090566564 -88.2324321790753,40.1081206906167 -88.2322991400116,40.1081246373661 -88.2323029411247,40.1082001842459 -88.2322576465599,40.1082015280892 -88.232260876805,40.1082657166835 -88.2322988367707,40.108264590697 -88.2323056471438,40.108399927319 -88.2324133057632,40.1083967338897 -88.2324149420217,40.108429261403 -88.2324349167389,40.108428668181 -88.2324437374044,40.1086039717949 -88.2323015844756,40.1086081889007 -88.2323161316444,40.1088973032371 -88.232301944325,40.1088977240636 -88.2323039315111,40.1089372110138 -88.232322545707,40.108936658954 -88.2323238321295,40.1089622315315</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>University Place Christian Church &amp; Illinois Disciples Foundation</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="Elevation">763.39001464</SimpleData>
+		<SimpleData name="SHAPESTArea">19156.0580342101</SimpleData>
+		<SimpleData name="SHAPESTLength">986.38761591897</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2293847530506,40.1131721505913 -88.2293587225531,40.1131722686246 -88.2293589959154,40.1132076688235 -88.2293844164549,40.1132075538452 -88.2293845634397,40.1132265805739 -88.2292358008616,40.1132272557279 -88.2292356931054,40.1132133013524 -88.2291850584715,40.1132135314239 -88.2291852758669,40.1132417301777 -88.2291652488674,40.1132418211433 -88.2291660272077,40.1133428962469 -88.2291942067494,40.113342768481 -88.2291944300455,40.1133717156586 -88.2292392301759,40.1133715118615 -88.2292390362185,40.1133463905638 -88.229393780304,40.1133456874506 -88.2293940576079,40.1133815929023 -88.2295861262242,40.1133807203806 -88.2295845201816,40.1131724116624 -88.2295720497999,40.1131724689388 -88.2295704418135,40.1129639260488 -88.2295787772712,40.1129638884848 -88.2295777121187,40.1128257551144 -88.2292882989307,40.1128270697856 -88.2292882402049,40.1128194216275 -88.2291646572684,40.112819982412 -88.2291659838715,40.1129922523995 -88.2291746794502,40.1129922124865 -88.229174860463,40.1130158072153 -88.2291694317362,40.1130158320538 -88.2291705536322,40.1131615955664 -88.2292920855749,40.1131610437411 -88.2292917897257,40.1131227182926 -88.2292536736255,40.1131228911911 -88.2292528675711,40.1130183666667 -88.2293234269408,40.1130180463848 -88.2293229599228,40.1129573195433 -88.2293830958019,40.1129570466036 -88.2293847530506,40.1131721505913</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bethel African Methodist Episcopal Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="Elevation">742.45599365</SimpleData>
+		<SimpleData name="SHAPESTArea">2525.2931817143</SimpleData>
+		<SimpleData name="SHAPESTLength">228.791330293222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2330392794854,40.116952047554 -88.2330362231837,40.1171671310519 -88.2330813979787,40.1171675096985 -88.2330813195038,40.117173018748 -88.2331058506758,40.1171732237065 -88.2331059722556,40.1171647210198 -88.2331579426238,40.1171651568525 -88.2331603483872,40.1169958262943 -88.2331283847473,40.1169955590786 -88.2331289929921,40.116952798873 -88.2330392794854,40.116952047554</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bethel African Methodist Episcopal Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="Elevation">752.86999511</SimpleData>
+		<SimpleData name="SHAPESTArea">4996.02104433029</SimpleData>
+		<SimpleData name="SHAPESTLength">334.487158135692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2333357710394,40.1169962498729 -88.2333352061999,40.1169678211854 -88.233203782882,40.1169693611872 -88.2332085711578,40.1172102678597 -88.2333322911787,40.1172088184692 -88.2333515704772,40.1171008908149 -88.233500460331,40.1170991459501 -88.2334983777016,40.1169943448335 -88.2333357710394,40.1169962498729</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Marys Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="Elevation">748.82000732</SimpleData>
+		<SimpleData name="SHAPESTArea">167.412254726904</SimpleData>
+		<SimpleData name="SHAPESTLength">59.5921322666139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2297138249824,40.1175345284861 -88.22963422807,40.1175372338704 -88.2296354156106,40.1175578376083 -88.2297150125469,40.1175551322232 -88.2297138249824,40.1175345284861</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Park Avenue Seventh Day Adventist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="Elevation">740.91998291</SimpleData>
+		<SimpleData name="SHAPESTArea">4276.06849061327</SimpleData>
+		<SimpleData name="SHAPESTLength">280.877436037733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2355831959666,40.1177395765908 -88.2357535883265,40.1177389421348 -88.2357520750446,40.1174993001199 -88.2357030022173,40.1174994830199 -88.2357029076134,40.1174844272081 -88.2356301911118,40.1174846982193 -88.2356302810768,40.1174988858256 -88.2355816774875,40.117499066368 -88.2355831959666,40.1177395765908</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Marys Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="Elevation">769.39001464</SimpleData>
+		<SimpleData name="SHAPESTArea">2423.51320441528</SimpleData>
+		<SimpleData name="SHAPESTLength">218.316099812696</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2292242044514,40.1177258574708 -88.2292607122535,40.1177258254366 -88.2292605333932,40.1176069158922 -88.2292140309262,40.1176069569543 -88.2292140026975,40.1175885463734 -88.2291634577741,40.1175885918867 -88.229163465309,40.1175936479966 -88.2291188163336,40.1175936870851 -88.2291189114804,40.1176566164702 -88.2291148959912,40.1176566191614 -88.2291149858919,40.1177160667289 -88.2291212372989,40.1177160615464 -88.2291213293468,40.1177764115405 -88.2292242799965,40.1177763194994 -88.2292242044514,40.1177258574708</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Salem Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="Elevation">759.33001708</SimpleData>
+		<SimpleData name="SHAPESTArea">17580.4549996377</SimpleData>
+		<SimpleData name="SHAPESTLength">730.701722349063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2313543574221,40.1175021373342 -88.2313560528882,40.1176181238881 -88.2313240717303,40.1176183992352 -88.2313265152976,40.1177856040308 -88.2317956805516,40.1177815618055 -88.2317958199828,40.1177911382624 -88.2319730552707,40.1177904208017 -88.2319775027345,40.1174971040678 -88.2319302818703,40.1174975112452 -88.2319299506164,40.1174749070936 -88.2318674724109,40.1174754458868 -88.2318677577407,40.1174949959823 -88.2318220971021,40.1174953900725 -88.2318226667677,40.1175343524672 -88.231833370154,40.1175342600772 -88.2318347437461,40.1176282143769 -88.2317914808439,40.1176285871401 -88.2317903702724,40.11755264465 -88.2316369249167,40.1175539672277 -88.2316901038651,40.1175157878241 -88.231635852207,40.1174755615618 -88.2315799520946,40.1175205580751 -88.2315796539796,40.1175001965055 -88.2313543574221,40.1175021373342</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Marys Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="Elevation">778.25</SimpleData>
+		<SimpleData name="SHAPESTArea">5538.85594160971</SimpleData>
+		<SimpleData name="SHAPESTLength">337.236115390422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.229510940904,40.1175629344032 -88.2294599637172,40.1175633651255 -88.2294637235479,40.1178254473719 -88.2295093715039,40.1178250614052 -88.2295097660773,40.1178525569075 -88.2295378383372,40.1178717473463 -88.2295858653876,40.117871340966 -88.2296093494418,40.1178521030573 -88.2296088922678,40.1178202295662 -88.2296499756596,40.1178198817854 -88.2296462724009,40.1175617893595 -88.2295792987834,40.1175623562167 -88.2295789806231,40.1175401393389 -88.229510622766,40.1175407175252 -88.229510940904,40.1175629344032</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Marys Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="Elevation">749.59997558</SimpleData>
+		<SimpleData name="SHAPESTArea">895.728806294012</SimpleData>
+		<SimpleData name="SHAPESTLength">120.530418110574</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2295106107503,40.1180276200447 -88.2295091211825,40.1181007223527 -88.2296293614392,40.1181021657025 -88.2296308497052,40.1180290633918 -88.2295106107503,40.1180276200447</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Marys Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="Elevation">752.26000976</SimpleData>
+		<SimpleData name="SHAPESTArea">4668.9314199848</SimpleData>
+		<SimpleData name="SHAPESTLength">284.384456897084</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2291925837353,40.1180211850631 -88.2291159006986,40.1180220302204 -88.2291154613988,40.1179985775782 -88.2290227712313,40.1179995992014 -88.2290232484322,40.1180250971951 -88.2289481854612,40.1180259247873 -88.2289514984223,40.1182030579798 -88.22919593527,40.1182003626999 -88.2291925837353,40.1180211850631</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Canaan Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="Elevation">759.44000244</SimpleData>
+		<SimpleData name="SHAPESTArea">1480.87990549468</SimpleData>
+		<SimpleData name="SHAPESTLength">168.875022564642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2317964588698,40.1185683070076 -88.2318292829309,40.1185679169892 -88.2318299057112,40.1185987792123 -88.2319175922131,40.1185977374523 -88.2319170076579,40.1185687557657 -88.2319223019748,40.1185686928547 -88.2319212486677,40.1185164800658 -88.2319173609317,40.1185165261959 -88.2319162727203,40.1184625427494 -88.2318273780745,40.1184635987602 -88.2318280489342,40.1184968386731 -88.2317950254759,40.1184972312183 -88.2317964588698,40.1185683070076</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Empty Tomb</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="Elevation">753.20501708</SimpleData>
+		<SimpleData name="SHAPESTArea">8091.67969766553</SimpleData>
+		<SimpleData name="SHAPESTLength">362.116005942024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2339759191951,40.1186932809561 -88.2343360463746,40.1186918916612 -88.2343346030247,40.1184713537626 -88.2339744770099,40.1184727421539 -88.2339759191951,40.1186932809561</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Servants of Holy Heart Mary</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="Elevation">750.46002197</SimpleData>
+		<SimpleData name="SHAPESTArea">9748.44319313017</SimpleData>
+		<SimpleData name="SHAPESTLength">609.19347650687</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.229102124126,40.1186126865877 -88.2290570605421,40.1186126181047 -88.2290567813566,40.1187208926503 -88.229103297316,40.118720963341 -88.2291032484872,40.1187398818008 -88.2292136834499,40.1187400495802 -88.22921362579,40.118762470558 -88.2293166725711,40.1187626261934 -88.2293167242513,40.1187425675464 -88.2293350446375,40.1187425957065 -88.2293349553214,40.1187773515996 -88.2294473013344,40.1187775226735 -88.2294474011203,40.1187389328341 -88.2294728352162,40.118738971856 -88.2294730559989,40.1186532290641 -88.2295186533732,40.1186532978636 -88.2295189342108,40.1185442262648 -88.2294673318015,40.1185441475772 -88.2294673868178,40.1185226380273 -88.2293551632255,40.1185224679836 -88.2293552120679,40.1185034945848 -88.2292584664066,40.1185033473482 -88.2292584093221,40.1185254008729 -88.22923545055,40.11852536583 -88.2292355546977,40.1184847630987 -88.2291297843962,40.1184846031398 -88.2291296753442,40.1185268404988 -88.229102345595,40.1185267987949 -88.229102124126,40.1186126865877</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>-88.2293411995319,40.1186019382022 -88.2293401940398,40.118665175502 -88.229230913669,40.1186641505866 -88.2292319204354,40.1186009132889 -88.2293411995319,40.1186019382022</coordinates></LinearRing></innerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Church of Jesus Christ LDS</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="Elevation">741.76855468</SimpleData>
+		<SimpleData name="SHAPESTArea">28139.1859850328</SimpleData>
+		<SimpleData name="SHAPESTLength">926.090780295822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2533419199744,40.0842572722265 -88.2534172660481,40.0842581140816 -88.253419285427,40.0841515539165 -88.2531436180327,40.0841484723999 -88.2531156081976,40.0840142988667 -88.252960265305,40.084012561954 -88.2529326759997,40.0841482046031 -88.2529035452664,40.084147879068 -88.2529038440314,40.0841321290701 -88.2528516221204,40.0841315443175 -88.252851320815,40.0841474501224 -88.2526300116768,40.0841449752347 -88.2526279997675,40.0842511183996 -88.2527317285453,40.084252278579 -88.2527295129735,40.0843691877243 -88.2526509764081,40.084368308976 -88.2526489920005,40.0844730282615 -88.2528265009543,40.0844750133608 -88.2528261133547,40.0844954888976 -88.252884854671,40.0844961457365 -88.2528852459932,40.08447548107 -88.2530217454433,40.0844770077834 -88.2530201828568,40.0845595016375 -88.2532032462073,40.0845615485512 -88.2532044435329,40.0844983864489 -88.2532406035838,40.0844987906202 -88.2532409972743,40.0844780142761 -88.2533917567402,40.0844796990156 -88.2533937661845,40.0843736531076 -88.253339726705,40.0843730484076 -88.2533419199744,40.0842572722265</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Sinai Temple</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="Elevation">760.87756347</SimpleData>
+		<SimpleData name="SHAPESTArea">28025.9635776708</SimpleData>
+		<SimpleData name="SHAPESTLength">921.699594603956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2983786190744,40.0844385673785 -88.298010225507,40.0844357222232 -88.2979585291041,40.0844176479285 -88.2979178316758,40.0844321230181 -88.2978712154979,40.0843694816913 -88.2977677564259,40.0843686817373 -88.2977152317691,40.0844372016949 -88.2977607651746,40.0844984341669 -88.2976500974815,40.0846207182076 -88.2977244196719,40.0847026848386 -88.2978149451897,40.0847033844992 -88.2978585817202,40.0847623503649 -88.2979584112665,40.0847631221107 -88.298012098166,40.0848438339798 -88.298114240046,40.0848446234082 -88.2981493077694,40.0847971699982 -88.2984922056501,40.0847998179138 -88.2985431678403,40.0847638692995 -88.2985612572273,40.0847138114476 -88.2985441812989,40.0846640366424 -88.2985003372382,40.0846270274146 -88.2985246143944,40.0845969500888 -88.2984483363303,40.0844951641305 -88.2984196507328,40.0844949429401 -88.2983786190744,40.0844385673785</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>-88.2983646788798,40.0845739980156 -88.298380602645,40.0845951261823 -88.2983623450449,40.0846231311459 -88.2981484649009,40.0846214470504 -88.298111540678,40.0845720047871 -88.2983646788798,40.0845739980156</coordinates></LinearRing></innerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Sinai Temple</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="Elevation">740.44030761</SimpleData>
+		<SimpleData name="SHAPESTArea">666.273376565165</SimpleData>
+		<SimpleData name="SHAPESTLength">103.249863129218</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2982948865915,40.0849542100235 -88.2982945056828,40.0850247931272 -88.29838711308,40.0850250876872 -88.2983874938932,40.0849545045832 -88.2982948865915,40.0849542100235</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Apostolic Christian Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="Elevation">743.57867431</SimpleData>
+		<SimpleData name="SHAPESTArea">12877.1037205275</SimpleData>
+		<SimpleData name="SHAPESTLength">607.139492352065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.267915345032,40.0894275863195 -88.2680267398537,40.0894278977473 -88.2680267823914,40.0894189698406 -88.2680659402497,40.0894190792709 -88.2680665334675,40.0892939759955 -88.268238199686,40.0892944553563 -88.2682389160807,40.0891431123328 -88.2680724847148,40.0891426476307 -88.2680728255568,40.0890706065421 -88.2680231250908,40.0890704677544 -88.2680234010788,40.0890123548498 -88.2679275133261,40.0890120863995 -88.2679272368816,40.089070591077 -88.2678753272463,40.0890704455748 -88.267874986366,40.0891423092389 -88.2677482427181,40.0891419547523 -88.2676932709781,40.0891434384732 -88.2676940593961,40.0892907033989 -88.2677475371382,40.0892906715458 -88.2678773872775,40.0892910349936 -88.2678767877841,40.089417431567 -88.2679153933455,40.0894175398355 -88.267915345032,40.0894275863195</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Good Shepherd Lutheran Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="Elevation">743.16204833</SimpleData>
+		<SimpleData name="SHAPESTArea">18471.0429643124</SimpleData>
+		<SimpleData name="SHAPESTLength">968.626078179347</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2583060900954,40.0891559361187 -88.2584186997062,40.089155822569 -88.2584183711094,40.0889635354568 -88.2584372657139,40.0889512640015 -88.2584372243357,40.088926964115 -88.2584156857802,40.0889079919555 -88.2584155617597,40.0888350094375 -88.2583065419943,40.088835119005 -88.258300038822,40.088751785032 -88.2582837936969,40.0887518015272 -88.2581731136224,40.088668797183 -88.2580632637926,40.0887552600558 -88.2580634457842,40.0888625655685 -88.2581696567965,40.0889257478825 -88.2579869825165,40.0889259318199 -88.2579533195144,40.0889047703653 -88.2579534489896,40.0889808645581 -88.257996317722,40.0889534349826 -88.2581684562818,40.0889532622073 -88.2581691603346,40.0893664494255 -88.2580451479647,40.0893665742351 -88.2580452988882,40.089455223197 -88.2580818853871,40.0894551866279 -88.2580819604587,40.0894988221273 -88.2582725900653,40.0894986305869 -88.2582725153042,40.0894546015132 -88.2582859357872,40.0894545876928 -88.2582857860589,40.0893667015643 -88.258306449706,40.0893666807257 -88.2583060900954,40.0891559361187</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Three Hierarchs Greek Orthodox Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="Elevation">757.56231689</SimpleData>
+		<SimpleData name="SHAPESTArea">7916.0174929455</SimpleData>
+		<SimpleData name="SHAPESTLength">443.246180979951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.249390258721,40.0900752105029 -88.2493282216187,40.0900750943812 -88.2493282574037,40.0900641085423 -88.2492835902284,40.0900640248058 -88.2492835595094,40.0900737461661 -88.2492190141888,40.0900736254642 -88.2492185275771,40.0902269769024 -88.249185720131,40.0902269161493 -88.2491857368731,40.0902218906553 -88.2491127333348,40.0902217547433 -88.2491127485766,40.0902169994367 -88.2491018080728,40.0902169788731 -88.2490569778885,40.0902016139695 -88.2490432171026,40.0902226192191 -88.2490026445987,40.0902225428567 -88.2490022340467,40.0903518754885 -88.2490386250726,40.0903519434046 -88.2490582192388,40.0903712230018 -88.249099581114,40.0903531369474 -88.2493893772342,40.0903536787454 -88.249390258721,40.0900752105029</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Three Hierarchs Greek Orthodox Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="Elevation">756.72393798</SimpleData>
+		<SimpleData name="SHAPESTArea">3519.77783034692</SimpleData>
+		<SimpleData name="SHAPESTLength">277.350091075977</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2490033177222,40.0908448747974 -88.2490038409971,40.090806639006 -88.2490372969266,40.0908069092283 -88.2490379875981,40.0907565348906 -88.2491201680403,40.0907571989855 -88.2491203818872,40.0907416272783 -88.2491397054207,40.0907417836239 -88.2491403521962,40.0906946154897 -88.2491193354204,40.0906944453045 -88.2491195454675,40.0906791023539 -88.2490321634004,40.0906783966468 -88.2490320821984,40.0906843353306 -88.2488618959439,40.0906829594796 -88.2488596920247,40.0908437137124 -88.2490033177222,40.0908448747974</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Meadowbrook Community Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="Elevation">727.6887207</SimpleData>
+		<SimpleData name="SHAPESTArea">109.235389032257</SimpleData>
+		<SimpleData name="SHAPESTLength">41.8503574077765</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.293222420361,40.0924359490484 -88.2932615319422,40.0924360076163 -88.2932616019554,40.0924086042283 -88.2932224903899,40.0924085456605 -88.293222420361,40.0924359490484</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Meadowbrook Community Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="Elevation">728.11468505</SimpleData>
+		<SimpleData name="SHAPESTArea">120.708966928805</SimpleData>
+		<SimpleData name="SHAPESTLength">44.1230785345742</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2932200900523,40.092450340279 -88.2932205417533,40.092477916768 -88.2932634835349,40.0924775020304 -88.2932630318166,40.0924499255416 -88.2932200900523,40.092450340279</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Mattis Avenue Free Methodist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="Elevation">731.25537109</SimpleData>
+		<SimpleData name="SHAPESTArea">18139.3218924503</SimpleData>
+		<SimpleData name="SHAPESTLength">555.205863085762</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.277223922452,40.0925065666755 -88.2770664184418,40.0925132684035 -88.2770663438744,40.0926038193151 -88.2770306643619,40.0926026104477 -88.2770383162745,40.0927289083384 -88.2770693407713,40.0927324980044 -88.2770739232572,40.0928182850509 -88.2772327662864,40.0928169210833 -88.2776339787562,40.0928098934619 -88.2776247613628,40.0924995452087 -88.277223922452,40.0925065666755</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Meadowbrook Community Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="Elevation">735.43731689</SimpleData>
+		<SimpleData name="SHAPESTArea">43959.4108852558</SimpleData>
+		<SimpleData name="SHAPESTLength">1281.13040727343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2942843023737,40.0921930891387 -88.2941417531666,40.0921937948235 -88.2941417905091,40.0921982016097 -88.293775064664,40.0922000151066 -88.2937762274046,40.0923386708109 -88.2936288078388,40.0923394003193 -88.2936306358744,40.0925575889176 -88.2934751315028,40.0925583577885 -88.2934753792054,40.0925880461787 -88.2934059118463,40.0925883888109 -88.2934057002775,40.092563139629 -88.2933195131261,40.0925635647066 -88.2933192763877,40.0925352939084 -88.2932689527836,40.0925355421994 -88.2932685056645,40.092482118586 -88.2930450363852,40.0924832227033 -88.2930473478464,40.0927594209281 -88.2932669060169,40.0927583361682 -88.293266784371,40.092743807194 -88.2933295125818,40.0927434974426 -88.2933302370682,40.0928299985163 -88.2936203149463,40.0928285654589 -88.2936204026778,40.0928390289858 -88.2937758103552,40.0928382607876 -88.2937741726493,40.0926429455191 -88.2938184449471,40.0926739035093 -88.293889550317,40.0926171692598 -88.2938503793994,40.0925877071773 -88.2940844475319,40.0925865501598 -88.2940845660647,40.0926006765518 -88.2941237212742,40.0926004826675 -88.2941235994077,40.0925860212407 -88.2942875915663,40.0925852102298 -88.2942843023737,40.0921930891387</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Temple Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="Elevation">747.63726806</SimpleData>
+		<SimpleData name="SHAPESTArea">14553.741584844</SimpleData>
+		<SimpleData name="SHAPESTLength">782.781297394348</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2627070702025,40.0931682692915 -88.2627612088508,40.0931682347403 -88.2627612203287,40.0931786937396 -88.2627939706565,40.0931786731594 -88.2627939600654,40.0931684861504 -88.2632077319281,40.0931682204189 -88.2632074850016,40.092942639085 -88.2629393478919,40.0929428114825 -88.2629393614824,40.092954661053 -88.2628479345641,40.0929547198367 -88.2628481293618,40.0931330587005 -88.2627968016296,40.0931330914015 -88.2627967856759,40.0931178752827 -88.2627606756803,40.09311789832 -88.2627606929335,40.0931329838485 -88.2627058765103,40.0931330188869 -88.2627058469253,40.0931060513663 -88.2625332089737,40.0931061621285 -88.262533346219,40.0932317385666 -88.262497840088,40.0932317618911 -88.262497919564,40.0933044101902 -88.2625344283671,40.0933043865779 -88.2625345529193,40.0934195805656 -88.2627073429376,40.0934194698943 -88.2627070702025,40.0931682692915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Matthew Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="Elevation">747.5246582</SimpleData>
+		<SimpleData name="SHAPESTArea">4169.39498720897</SimpleData>
+		<SimpleData name="SHAPESTLength">352.077902385673</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2667393466958,40.0952004357786 -88.2667465915686,40.0951644328506 -88.2668254115796,40.0951737888211 -88.2668499576845,40.0950518164997 -88.2665619838343,40.0950176341539 -88.2665490353084,40.0950819711313 -88.2665922478814,40.0950871007947 -88.2665855249862,40.0951205002998 -88.2665415525689,40.0951152810336 -88.2665294300785,40.0951755188272 -88.2667393466958,40.0952004357786</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>-88.2667518202885,40.0951070460616 -88.2667469544432,40.0951326255928 -88.2666959509726,40.0951269015945 -88.2667008180084,40.0951013229666 -88.2667518202885,40.0951070460616</coordinates></LinearRing></innerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Grace Community Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="Elevation">724.80780029</SimpleData>
+		<SimpleData name="SHAPESTArea">143.121072510755</SimpleData>
+		<SimpleData name="SHAPESTLength">47.8593462097953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2931103911737,40.0955245441981 -88.2931538388281,40.0955246529421 -88.2931539762801,40.0954923312646 -88.2931105286468,40.0954922216201 -88.2931103911737,40.0955245441981</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Faith United Methodist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="Elevation">762.7322998</SimpleData>
+		<SimpleData name="SHAPESTArea">52230.7262190643</SimpleData>
+		<SimpleData name="SHAPESTLength">1565.57345948112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2582718121355,40.0952110661125 -88.2580458423846,40.0952133979906 -88.258050763827,40.0954947230209 -88.2582600009344,40.0954925640183 -88.258259745988,40.0954780493393 -88.2583213690093,40.0954774137905 -88.2583241728712,40.0956377110984 -88.258384110831,40.0956370924377 -88.2583813310728,40.0954782127345 -88.2584880475971,40.0954771118218 -88.2584893465203,40.0955513757074 -88.2588581304213,40.0955475695829 -88.2588532443785,40.0952683700925 -88.2588120925208,40.0952687948397 -88.258811246906,40.0952205008426 -88.2587738536367,40.0952208865654 -88.2587728037914,40.0951609626318 -88.2585024492466,40.0951637531617 -88.2585016634963,40.0951188203425 -88.2589443413927,40.0951142510909 -88.2589408206266,40.0949131395797 -88.2585067564325,40.0949176198169 -88.2585032160586,40.0947152518975 -88.258211745125,40.0947182595678 -88.2582119967237,40.0947326076305 -88.258049207093,40.0947342869886 -88.258049651658,40.0947597264068 -88.2580356541946,40.094759871316 -88.2580360017313,40.094779708767 -88.258007142232,40.0948249321338 -88.2580405451241,40.0948676994403 -88.2580409224309,40.0948892562084 -88.2580570718469,40.0948890892806 -88.2580575540102,40.094916595663 -88.2582666228217,40.0949144383396 -88.2582718121355,40.0952110661125</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Faith United Methodist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="Elevation">769.81634521</SimpleData>
+		<SimpleData name="SHAPESTArea">2489.40870516916</SimpleData>
+		<SimpleData name="SHAPESTLength">214.226937935441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2590180893787,40.0957522660726 -88.2592042700319,40.095821897602 -88.2592632881185,40.0957288257812 -88.2591624722171,40.0956911204444 -88.2591804184615,40.0956628189065 -88.2590950539308,40.0956308919203 -88.2590180893787,40.0957522660726</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Grace Community Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="Elevation">730.77307128</SimpleData>
+		<SimpleData name="SHAPESTArea">11762.5672197473</SimpleData>
+		<SimpleData name="SHAPESTLength">524.19255095387</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2929316677503,40.0958460303783 -88.2932098981335,40.0958496818638 -88.2932111351561,40.0957940955567 -88.2934816993682,40.0957976464659 -88.2934843524127,40.0956783961767 -88.293215659134,40.0956748702386 -88.2932183981472,40.0955517932159 -88.2929382973463,40.0955481167817 -88.2929316677503,40.0958460303783</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Matthew Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="Elevation">745.18511962</SimpleData>
+		<SimpleData name="SHAPESTArea">7964.38934223459</SimpleData>
+		<SimpleData name="SHAPESTLength">595.397309341913</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.267300039242,40.0956124498521 -88.2673011337063,40.0958220220044 -88.2673143349938,40.0958219817959 -88.2673148980516,40.0959298313626 -88.2674030502396,40.0959295591454 -88.2674024918458,40.0958228083473 -88.2676828758487,40.0958219435828 -88.2676817742321,40.0956112735648 -88.267300039242,40.0956124498521</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>-88.2675346091974,40.0956652205121 -88.2675322892595,40.0957702602864 -88.2674126821696,40.095768702643 -88.2674129384767,40.0957570846935 -88.2674241260229,40.095757230657 -88.2674259311176,40.0956754835223 -88.2674133046844,40.0956753196282 -88.2674135622184,40.0956636449397 -88.2675346091974,40.0956652205121</coordinates></LinearRing></innerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Westminster Presbyterian Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="Elevation">730.13146972</SimpleData>
+		<SimpleData name="SHAPESTArea">15450.4798783934</SimpleData>
+		<SimpleData name="SHAPESTLength">795.456343726681</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2816416073841,40.0970737124415 -88.2815755397778,40.0972103810626 -88.2816994773959,40.0972457166502 -88.2816804821479,40.0972850124597 -88.2817850961783,40.0973148383051 -88.281803822396,40.097276100748 -88.2819423166998,40.0973155863366 -88.2819715587215,40.0972550951611 -88.28198373501,40.0972585661736 -88.2820037918814,40.0972170750551 -88.2819942279016,40.0972143482202 -88.282030756817,40.0971387837559 -88.2818526539411,40.0970880066217 -88.2818444542854,40.0971049671945 -88.2818099539258,40.0970951314129 -88.2818246395575,40.0970647498757 -88.2818867894316,40.0970824694198 -88.2818995722285,40.0970560272727 -88.281837128081,40.0970382247469 -88.2818554278248,40.0970003705054 -88.2819134622311,40.0970169164901 -88.2819858234369,40.0968672255879 -88.2818464823129,40.0968274992045 -88.2817773779204,40.0969704538767 -88.2816283297395,40.0969279597858 -88.2816360466806,40.0969119951063 -88.2814968639539,40.0968723134047 -88.2814288300054,40.0970130483002 -88.2816416073841,40.0970737124415</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Church of the Nazarene</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="Elevation">730.35864257</SimpleData>
+		<SimpleData name="SHAPESTArea">1487.44668672915</SimpleData>
+		<SimpleData name="SHAPESTLength">166.356281956377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2860776841283,40.0975274347513 -88.2861729766502,40.0975256813392 -88.2861716388368,40.0974827956232 -88.2861798915354,40.0974826440751 -88.2861786294466,40.0974421819778 -88.2861715788292,40.0974423114996 -88.2861695376721,40.097376909813 -88.2860730444552,40.0973786852482 -88.2860776841283,40.0975274347513</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bible Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="Elevation">735.05090332</SimpleData>
+		<SimpleData name="SHAPESTArea">2068.99169257778</SimpleData>
+		<SimpleData name="SHAPESTLength">203.848607177043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.3107684541438,40.0975926107789 -88.3106684463161,40.0975915258118 -88.3106647117947,40.0977944895568 -88.3107647199194,40.0977955745271 -88.3107684541438,40.0975926107789</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Champaign Alliance Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="Elevation">756.47894287</SimpleData>
+		<SimpleData name="SHAPESTArea">2690.86798674979</SimpleData>
+		<SimpleData name="SHAPESTLength">240.892384236783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2610325910014,40.0978007390354 -88.2610312069469,40.0978818279428 -88.2610096285774,40.09788161093 -88.261008196942,40.0979655214713 -88.261116710475,40.0979666131881 -88.2611178944076,40.0978972377133 -88.2612250310394,40.0978983158615 -88.2612266624103,40.0978026918834 -88.2610325910014,40.0978007390354</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Church of the Nazarene</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="Elevation">757.17321777</SimpleData>
+		<SimpleData name="SHAPESTArea">8561.56844827156</SimpleData>
+		<SimpleData name="SHAPESTLength">459.321380522373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2869664356537,40.0977497346023 -88.2869659064235,40.0978037711268 -88.2869315532301,40.0978035727418 -88.2869308639668,40.0978739006484 -88.2869717364869,40.0978741367675 -88.2869919024649,40.0978906245147 -88.2869094220699,40.0979557617769 -88.2869709075415,40.0980017337032 -88.286970680684,40.0980249589879 -88.2869086012729,40.0980246008918 -88.2869080757798,40.0980782447416 -88.2870326357798,40.0980789637632 -88.2870861493713,40.0981244785246 -88.2872049324138,40.098024546358 -88.2872051239039,40.0980049505866 -88.287271860203,40.0979567476535 -88.2871625558041,40.097874131027 -88.2871637625995,40.0977508743606 -88.2869664356537,40.0977497346023</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Stratford Park Bible Chapel</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="Elevation">735.37304687</SimpleData>
+		<SimpleData name="SHAPESTArea">16895.1504291767</SimpleData>
+		<SimpleData name="SHAPESTLength">686.726011353826</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2931593515451,40.0981614155126 -88.2931613375539,40.098030874785 -88.2930573114272,40.0980299416367 -88.2930601577206,40.0978429066589 -88.2931440100333,40.097843658986 -88.2931451408542,40.0977694044594 -88.2932241402711,40.0977701136158 -88.2932264323382,40.097619414243 -88.2928360321058,40.097615910966 -88.2928352206564,40.0976691719806 -88.292846442607,40.0976692731712 -88.2928409855798,40.0980277938739 -88.2928145823688,40.0980275567824 -88.2928125920574,40.0981583028454 -88.2931593515451,40.0981614155126</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bible Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="Elevation">748.70098876</SimpleData>
+		<SimpleData name="SHAPESTArea">24877.3035323576</SimpleData>
+		<SimpleData name="SHAPESTLength">897.760656529957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.310491766842,40.0980040882959 -88.3104925233895,40.0979721540026 -88.3106265362725,40.0978727429908 -88.3105678362499,40.0978281008827 -88.3103919886214,40.0979600675307 -88.3103918316082,40.0979666483832 -88.3102902413101,40.0979652286435 -88.310287670396,40.0980737176948 -88.3100196482664,40.0980699714891 -88.3100148411264,40.0982727512523 -88.310042420717,40.0982731368657 -88.3100861631003,40.098308403408 -88.3100860036596,40.0983151364653 -88.3101283514292,40.0983476972273 -88.3101186280314,40.0983547769109 -88.3101903938148,40.0984135788131 -88.3102674472621,40.0983555766768 -88.3102569931444,40.098349079271 -88.3103070396327,40.0983136693625 -88.3103071824075,40.0983076054677 -88.310346901865,40.0982782087776 -88.3103808014174,40.0982786820247 -88.310380220883,40.0983031735669 -88.3107553255865,40.0983084150871 -88.310755908373,40.0982837992569 -88.310873623317,40.0982854441707 -88.3108752395298,40.0982171967524 -88.3107558535341,40.0982155280982 -88.3107607726742,40.0980078471102 -88.310491766842,40.0980040882959</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Hessel Park Christian Reformed Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="Elevation">785.28521728</SimpleData>
+		<SimpleData name="SHAPESTArea">4484.51118102393</SimpleData>
+		<SimpleData name="SHAPESTLength">312.401602394504</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2540944433895,40.0983603993866 -88.2540215527571,40.0984120842228 -88.2539026229542,40.0984113416695 -88.2538308495407,40.098357407911 -88.2538286678087,40.0985633194845 -88.2540922769131,40.0985649654387 -88.2540944433895,40.0983603993866</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Liberty Temple Church of God in Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="Elevation">741.99279785</SimpleData>
+		<SimpleData name="SHAPESTArea">3624.31320769589</SimpleData>
+		<SimpleData name="SHAPESTLength">265.375022182738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2779164695966,40.1028056711876 -88.2779185387586,40.1026997945278 -88.2778240339543,40.1026987045502 -88.2778256064142,40.1026182658479 -88.2776884614952,40.1026166851911 -88.2776848193522,40.1028030014476 -88.2779164695966,40.1028056711876</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Peters Church of Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="Elevation">775.31939697</SimpleData>
+		<SimpleData name="SHAPESTArea">3135.12635383544</SimpleData>
+		<SimpleData name="SHAPESTLength">267.118802026878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2676744743887,40.1058892221163 -88.2676719612698,40.1057948927296 -88.2675064551866,40.10579749166 -88.2675046599665,40.1057300796853 -88.2674034326146,40.1057316684549 -88.2674056522027,40.105814996535 -88.2674213456576,40.1058147505893 -88.2674234339574,40.1058931647779 -88.2676744743887,40.1058892221163</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Peters Church of Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="Elevation">773.05511474</SimpleData>
+		<SimpleData name="SHAPESTArea">935.422072999334</SimpleData>
+		<SimpleData name="SHAPESTLength">125.243900464735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2682784587007,40.1064137173019 -88.2683528066001,40.1063776151174 -88.2682801675528,40.1062894138753 -88.2682058197112,40.1063255160138 -88.2682784587007,40.1064137173019</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Peters Church of Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="Elevation">800.1730957</SimpleData>
+		<SimpleData name="SHAPESTArea">13756.6354094189</SimpleData>
+		<SimpleData name="SHAPESTLength">768.304875086427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2676683911463,40.1066205926529 -88.2676982077977,40.106620218681 -88.267699016891,40.1066582678798 -88.2676822711866,40.1066584772417 -88.2676826594902,40.1066767025264 -88.2676373791006,40.1066772703652 -88.2676391173081,40.1067589968415 -88.2676840669893,40.1067584333177 -88.2676844979171,40.1067786841338 -88.2676998689933,40.1067784911046 -88.2677029504776,40.1069234494766 -88.2678054049835,40.1069221646512 -88.267803250267,40.1068208024998 -88.2678217295838,40.1068205706847 -88.2678208048487,40.1067770618287 -88.2679769857594,40.1067751029373 -88.2679773988136,40.106794511657 -88.2681082904955,40.1067928697467 -88.2681078987353,40.1067744598335 -88.2681190027384,40.1067743201845 -88.2681164423469,40.1066538960618 -88.2681037302977,40.1066540555193 -88.2681032891848,40.1066332868388 -88.2679729537708,40.1066349209518 -88.2679733768939,40.10665483673 -88.2678800410316,40.1066560070743 -88.2678790803178,40.1066108401449 -88.2678385549665,40.1066113486062 -88.2678355023563,40.1064677943219 -88.2678959401403,40.1064670368321 -88.2678933946946,40.1063473494185 -88.2678295884205,40.1063481491328 -88.2678295008461,40.1063440710492 -88.2677870004731,40.1063446044938 -88.2677874920175,40.1063677184349 -88.2676630486289,40.1063692789803 -88.2676683911463,40.1066205926529</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Church of God</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="Elevation">729.72961425</SimpleData>
+		<SimpleData name="SHAPESTArea">268.758965913285</SimpleData>
+		<SimpleData name="SHAPESTLength">67.5203915053575</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2960274743713,40.1086541096802 -88.2960251336842,40.1086188593406 -88.2959505017838,40.1086217821244 -88.2959528436054,40.1086570324659 -88.2960274743713,40.1086541096802</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Champaign Church of Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="Elevation">771.13128662</SimpleData>
+		<SimpleData name="SHAPESTArea">14441.3775918138</SimpleData>
+		<SimpleData name="SHAPESTLength">669.423747870422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2717966370452,40.1082423052276 -88.2716248417218,40.1082411078601 -88.2716226125492,40.1082599540647 -88.2714660643726,40.1082623157509 -88.2714649058478,40.1083745889207 -88.271575143396,40.1083762121379 -88.2715761686621,40.1084162806163 -88.2714415204031,40.1084168139659 -88.2714402602251,40.1085053123643 -88.2715285016538,40.1085060016294 -88.2715301762415,40.1085336157029 -88.2715744627361,40.1085335420574 -88.2715707254988,40.1086337031362 -88.2715210318615,40.1086336099809 -88.271518758941,40.1087240639951 -88.271793578059,40.108726479011 -88.2717929344618,40.1086974623154 -88.2718091362721,40.1086974078788 -88.2718117140195,40.1086470372612 -88.2717954939534,40.1086465378038 -88.2717983014994,40.1085090714123 -88.271835410174,40.1085096972421 -88.2718379570332,40.1084167495315 -88.2717983574834,40.1084170040917 -88.2717966370452,40.1082423052276</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Champaign Alliance Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="Elevation">785.80572509</SimpleData>
+		<SimpleData name="SHAPESTArea">10762.042012859</SimpleData>
+		<SimpleData name="SHAPESTLength">506.582862157135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2687738101464,40.1085951874639 -88.2688000510997,40.1085951084221 -88.2688007628121,40.1087343968624 -88.2689212026047,40.1087340343044 -88.2689209440858,40.1086835513977 -88.269079008146,40.1086830753995 -88.2690790438457,40.1086900111366 -88.269185068139,40.1086896925426 -88.2691850384424,40.1086838465658 -88.2692395883073,40.1086836822292 -88.269239119744,40.1085918037545 -88.2691627357264,40.10859203345 -88.2691622890032,40.1085044842927 -88.2690156403681,40.1085049253154 -88.2690151185465,40.1084026652963 -88.2687728302629,40.1084033951013 -88.2687738101464,40.1085951874639</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Church of God</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="Elevation">734.00207519</SimpleData>
+		<SimpleData name="SHAPESTArea">2547.34192765838</SimpleData>
+		<SimpleData name="SHAPESTLength">213.06957447638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2961496476818,40.1090949790647 -88.2961499025718,40.1092149460693 -88.2962789605914,40.1092147838871 -88.2962789177001,40.1091943937116 -88.2963744951345,40.1091942738442 -88.2963742839422,40.1090946979163 -88.2961496476818,40.1090949790647</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Church of God</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="Elevation">734.45812988</SimpleData>
+		<SimpleData name="SHAPESTArea">3592.52611141257</SimpleData>
+		<SimpleData name="SHAPESTLength">309.959117547013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2960448772976,40.1088709021676 -88.29596012014,40.1088720006325 -88.2959607232677,40.1088994293788 -88.2959405954868,40.1088996903684 -88.2959472366201,40.1092018649907 -88.2959714627868,40.1092015512845 -88.2959717969501,40.1092167881749 -88.2960524574104,40.1092157433212 -88.2960448772976,40.1088709021676</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Prairie Zen Center</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="Elevation">790.75250244</SimpleData>
+		<SimpleData name="SHAPESTArea">2143.14915327124</SimpleData>
+		<SimpleData name="SHAPESTLength">219.575533845634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2580439403406,40.1102572201307 -88.2580445944072,40.1102852849393 -88.2580422062186,40.1102853176107 -88.258042911825,40.1103155736739 -88.2580060227373,40.1103160810578 -88.258007104635,40.1103624810732 -88.2580396208707,40.1103620338903 -88.2580403745794,40.1103944073543 -88.2581728348077,40.1103925876623 -88.258172572682,40.1103813693043 -88.2581900759247,40.110381128486 -88.258189249311,40.1103456577253 -88.2581695960022,40.1103459277695 -88.2581678878811,40.1102726616978 -88.2581631314453,40.1102727270585 -88.2581621692974,40.1102314615861 -88.2581068058245,40.1102322226951 -88.2581073680736,40.110256348109 -88.2580439403406,40.1102572201307</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Prairie Zen Center</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="Elevation">778.62701416</SimpleData>
+		<SimpleData name="SHAPESTArea">484.900290233938</SimpleData>
+		<SimpleData name="SHAPESTLength">89.197632343878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.258300630433,40.1104129255816 -88.258367780962,40.1104123602403 -88.2583667690737,40.1103414983917 -88.2582996197884,40.1103420628327 -88.258300630433,40.1104129255816</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Johns Lutheran Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="Elevation">765.80242919</SimpleData>
+		<SimpleData name="SHAPESTArea">45340.6914083455</SimpleData>
+		<SimpleData name="SHAPESTLength">1576.35403427231</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2778858902,40.109481517641 -88.2778893947302,40.1096421710806 -88.2774311410277,40.1096480633601 -88.2774324377283,40.1097075232752 -88.2773937005447,40.1097080206314 -88.2773958518631,40.1098066716727 -88.2774344870548,40.1098061751672 -88.2774357996002,40.1098663465823 -88.2776402948638,40.1098637170971 -88.2776422441243,40.1099531222141 -88.2774318767073,40.1099558263225 -88.2774328161432,40.1099989370099 -88.2773960294443,40.1099994091901 -88.2774022618218,40.1102852670777 -88.2773726453661,40.1102856481469 -88.2773752341212,40.1104044184586 -88.2774073701836,40.1104040052822 -88.2774079185037,40.1104291185825 -88.2774865725313,40.1104281082055 -88.277486422164,40.1104212156477 -88.2777794871056,40.1104174478688 -88.2777790992419,40.1103996702401 -88.2778021670122,40.1103993741888 -88.277799645334,40.1102837498028 -88.2777858640476,40.110283926922 -88.277782159598,40.1101140762154 -88.2778054255049,40.1101137766559 -88.2777989845076,40.1098184459033 -88.2778786981889,40.1098174213578 -88.2778791098291,40.1098362806504 -88.2779630731915,40.109835201342 -88.2779622295332,40.1097965190785 -88.2782157017956,40.1097932590271 -88.2782155954663,40.1097883919969 -88.2783611090155,40.109786520303 -88.2783588838938,40.10968456575 -88.2783987987152,40.1096840515176 -88.2783942364035,40.1094749799694 -88.2778858902,40.109481517641</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>-88.2775734035091,40.1101151341098 -88.2776080787625,40.1101148806101 -88.2776084077504,40.1101415050546 -88.2776088886549,40.1101803249395 -88.2776093409327,40.1102168536196 -88.2776063568998,40.1102168756002 -88.2775557972507,40.1102172448368 -88.2775052387747,40.1102176131512 -88.2774708907272,40.110217864076 -88.2774705639337,40.1101914900064 -88.2774700831077,40.110152670121 -88.2774696287637,40.1101158910651 -88.2774722867072,40.1101158716326 -88.2775228451088,40.110115502432 -88.2775734035091,40.1101151341098</coordinates></LinearRing></innerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Johns Lutheran Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="Elevation">768.21734619</SimpleData>
+		<SimpleData name="SHAPESTArea">3486.61015677615</SimpleData>
+		<SimpleData name="SHAPESTLength">326.962501146332</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2784072875817,40.110666650387 -88.2784037592912,40.1106593572517 -88.278425614378,40.11065312448 -88.2784716344675,40.1107482568164 -88.278537795789,40.1107293876141 -88.2784702018416,40.1105896605338 -88.2783906352218,40.1106123527984 -88.2783707173398,40.1105711784695 -88.2782334086113,40.1106103381631 -88.2782285535826,40.1106003019873 -88.2781556977987,40.1106210798518 -88.2782055724778,40.1107241783596 -88.2784072875817,40.110666650387</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Primitive Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="Elevation">798.14355468</SimpleData>
+		<SimpleData name="SHAPESTArea">2196.12312284393</SimpleData>
+		<SimpleData name="SHAPESTLength">197.716024154536</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2765140413033,40.1130849159869 -88.2763928633255,40.1130849933725 -88.2763928797961,40.1131004075752 -88.2763010646282,40.1131004650724 -88.2763011633756,40.113192892648 -88.27651415801,40.1131927577658 -88.2765140413033,40.1130849159869</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Grace Evangelical Lutheran Church of Champaign</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="Elevation">795.63574218</SimpleData>
+		<SimpleData name="SHAPESTArea">18496.4975174223</SimpleData>
+		<SimpleData name="SHAPESTLength">806.843864639987</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2586802255888,40.113217233522 -88.2586547095669,40.113229612372 -88.2586259634527,40.1132148271899 -88.258599091012,40.1132297205978 -88.2585698098524,40.1132150845602 -88.2585391090953,40.1132285308808 -88.2585125395591,40.1132142568297 -88.2584822091669,40.1132279735619 -88.2584552522775,40.1132128769768 -88.2584245969027,40.1132277057555 -88.2584035370809,40.1132112512275 -88.258400900827,40.113377369763 -88.2584221553496,40.1133618144114 -88.2584537619612,40.1133759917701 -88.2584796461067,40.1133638815888 -88.2585090489292,40.1133767191798 -88.2585353010969,40.1133648785105 -88.2585661250889,40.1133771352012 -88.2585916581729,40.113365308465 -88.2586235976993,40.1133786502125 -88.2586516038829,40.1133653930649 -88.2586802955732,40.1133785210557 -88.2587110986473,40.113362722332 -88.2588817894767,40.1133643182094 -88.2588819066338,40.1133569205528 -88.2588986735497,40.1133570772307 -88.2589018541078,40.1131564660034 -88.258914845086,40.1131565878298 -88.2589170481402,40.113017625538 -88.258901324103,40.1130174785393 -88.2589024488871,40.1129465811747 -88.2589217177044,40.1129467610719 -88.2589236738454,40.1128233821282 -88.2585492352203,40.1128198816072 -88.2585472721561,40.1129436090817 -88.2586845444319,40.1129448927649 -88.2586802255888,40.113217233522</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Champaign Seventh Day Adventist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="Elevation">785.45697021</SimpleData>
+		<SimpleData name="SHAPESTArea">4952.49766661159</SimpleData>
+		<SimpleData name="SHAPESTLength">342.164884309612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2763985255423,40.1138993609203 -88.2764013346296,40.1139771015265 -88.2765376004871,40.1139741999679 -88.2765286006856,40.1137250584312 -88.2763934133515,40.1137279370934 -88.2763960813934,40.1138017815301 -88.2762443140929,40.1138050130171 -88.2762478383996,40.1139025704271 -88.2763985255423,40.1138993609203</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Holy Cross Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="Elevation">753.58062744</SimpleData>
+		<SimpleData name="SHAPESTArea">699.29753382401</SimpleData>
+		<SimpleData name="SHAPESTLength">105.789315994181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2496178783619,40.1139908573154 -88.2496155839566,40.1139171665484 -88.2495224976096,40.1139188752591 -88.2495247919156,40.1139925651271 -88.2496178783619,40.1139908573154</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Holy Cross Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="Elevation">758.66052246</SimpleData>
+		<SimpleData name="SHAPESTArea">1418.15751996748</SimpleData>
+		<SimpleData name="SHAPESTLength">161.005483608762</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2482949303203,40.1145318281832 -88.2482800292225,40.1145318469623 -88.248279986195,40.1145117720094 -88.2481843590136,40.114511895381 -88.2481844002034,40.1145305995819 -88.2481730897742,40.114530613782 -88.248173291609,40.1146236592532 -88.2481811720875,40.1146236488359 -88.2481812064731,40.1146393431443 -88.2482440297808,40.1146392623267 -88.2482439878315,40.1146202131864 -88.2482951229576,40.1146201480706 -88.2482949303203,40.1145318281832</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Holy Cross Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="Elevation">749.47680664</SimpleData>
+		<SimpleData name="SHAPESTArea">555.914605644259</SimpleData>
+		<SimpleData name="SHAPESTLength">94.3492920515557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2481217346667,40.1147107477506 -88.2482036765681,40.1147103946205 -88.2482031894948,40.1146438101905 -88.2481212465003,40.1146441633195 -88.2481217346667,40.1147107477506</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Holy Cross Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="Elevation">747.99829101</SimpleData>
+		<SimpleData name="SHAPESTArea">253.4796584546</SimpleData>
+		<SimpleData name="SHAPESTLength">65.632346983097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2481714180432,40.1147207028704 -88.2481269402225,40.1147204603126 -88.2481264223162,40.1147763932172 -88.2481708989992,40.1147766366749 -88.2481714180432,40.1147207028704</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Holy Cross Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="Elevation">760.2345581</SimpleData>
+		<SimpleData name="SHAPESTArea">1084.14521540141</SimpleData>
+		<SimpleData name="SHAPESTLength">134.88493123876</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.24818655501,40.1147206464525 -88.2481863618952,40.1148115328333 -88.2482994463573,40.1148116744532 -88.248299522438,40.1147760187847 -88.2483091964848,40.1147760303899 -88.2483093042571,40.11472528388 -88.2482710796622,40.1147252359996 -88.2482710887681,40.1147207517968 -88.24818655501,40.1147206464525</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Holy Cross Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="Elevation">791.4208374</SimpleData>
+		<SimpleData name="SHAPESTArea">21169.8803102293</SimpleData>
+		<SimpleData name="SHAPESTLength">1008.2087444473</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2494957986791,40.1149522442767 -88.2494498741055,40.1149521930127 -88.2494499219982,40.1149265792869 -88.2493929896251,40.1149265155243 -88.2493930904866,40.1148731022603 -88.2491318192637,40.1148728108426 -88.249131706809,40.1149316539629 -88.249014895376,40.1149315230512 -88.249015018488,40.1148669816876 -88.2488814538087,40.1148668321393 -88.2488814642238,40.1148612572813 -88.2487236152841,40.1148610808353 -88.2487235981505,40.1148701735277 -88.2486753345914,40.1148701193473 -88.2486752368798,40.1149214854934 -88.2486540939913,40.1149214610312 -88.248654004072,40.1149684231287 -88.2486419299533,40.1149684097973 -88.2486417472331,40.1150646431903 -88.2486795262685,40.115064685219 -88.2486793913742,40.1151356345145 -88.2486614508304,40.1151356141954 -88.2486613556367,40.1151858869828 -88.24868050443,40.1151859090856 -88.2486804611176,40.1152085417464 -88.2487273794329,40.1152085940415 -88.2487273387611,40.1152300549917 -88.2488889376092,40.1152302359681 -88.2488889808403,40.1152076132142 -88.2489413186263,40.1152076720756 -88.2489415940497,40.115062672639 -88.248971503136,40.115062706136 -88.2489716804146,40.1149695510729 -88.2490315782727,40.1149696181017 -88.249031547835,40.1149857185434 -88.2490814208897,40.1149857746469 -88.2490814529744,40.1149692806334 -88.2491319090193,40.1149693371392 -88.2491318950025,40.1149768978715 -88.2491270714541,40.1149768925635 -88.2491269376084,40.1150473690336 -88.2491899968855,40.1150474400802 -88.2491898865193,40.1151055807132 -88.2491713078468,40.1151055600095 -88.2491712082555,40.1151578015596 -88.2492198098559,40.115157855779 -88.24921970488,40.1152135458157 -88.2493393180312,40.1152136785529 -88.2493393613989,40.1151908234377 -88.2494004723815,40.1151908911555 -88.2494006309165,40.1151067819522 -88.2493895479957,40.115106769417 -88.2493895807613,40.1150896611784 -88.2494492910385,40.1150897278553 -88.2494493464156,40.1150608871979 -88.2494955936494,40.1150609386958 -88.2494957986791,40.1149522442767</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>West Side Church of Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="Elevation">780.77301025</SimpleData>
+		<SimpleData name="SHAPESTArea">1699.28189566552</SimpleData>
+		<SimpleData name="SHAPESTLength">195.761923727645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2704979708936,40.1172147663239 -88.2705311748552,40.1172149032155 -88.2705309805008,40.1172425468695 -88.2706144473519,40.1172428920062 -88.2706154435335,40.1171009019329 -88.2705274722456,40.1171005381432 -88.2705275681317,40.1170868451044 -88.2704683465937,40.117086600428 -88.2704681995005,40.1171074804203 -88.2704987229312,40.1171076068599 -88.2704979708936,40.1172147663239</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Greater Mt Calvary Holy Church of IL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="Elevation">771.81311035</SimpleData>
+		<SimpleData name="SHAPESTArea">1263.59471553815</SimpleData>
+		<SimpleData name="SHAPESTLength">152.398555316009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2605916714586,40.1255508523077 -88.2605530560031,40.1255507758113 -88.2605530798111,40.1255438527382 -88.2605160399972,40.1255437799215 -88.2605160230183,40.1255486973117 -88.2604744604291,40.125548614433 -88.2604741547703,40.1256393105663 -88.2605154158965,40.125639392355 -88.2605153355966,40.1256629715117 -88.2605856164516,40.1256631102445 -88.2605856899752,40.1256414629196 -88.2605913660352,40.1256414736898 -88.2605916714586,40.1255508523077</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Greater Mt Calvary Holy Church of IL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">100</SimpleData>
+		<SimpleData name="Elevation">768.70849609</SimpleData>
+		<SimpleData name="SHAPESTArea">490.887313695631</SimpleData>
+		<SimpleData name="SHAPESTLength">88.7709776218114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2605900745289,40.1257425362724 -88.2605914919675,40.1256851305614 -88.2605075793399,40.1256839097186 -88.2605061618307,40.1257413154285 -88.2605900745289,40.1257425362724</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Greater Mt Calvary Holy Church of IL</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="Elevation">769.17755126</SimpleData>
+		<SimpleData name="SHAPESTArea">6327.28078778117</SimpleData>
+		<SimpleData name="SHAPESTLength">334.479861599628</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2602038089485,40.1257852518236 -88.2602070538985,40.1256409074456 -88.2601554197465,40.125640222781 -88.2601577568365,40.1255362518504 -88.2600113474759,40.1255343120741 -88.2600111417477,40.1255434334523 -88.2599347025254,40.1255424204664 -88.2599293241289,40.1257816161845 -88.2602038089485,40.1257852518236</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Hope Church of God in Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">102</SimpleData>
+		<SimpleData name="Elevation">769.95672607</SimpleData>
+		<SimpleData name="SHAPESTArea">1094.79034530382</SimpleData>
+		<SimpleData name="SHAPESTLength">132.358721014261</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2589005586501,40.1265050882117 -88.2589005439825,40.1264152681968 -88.258780892247,40.1264152803975 -88.2587809067571,40.1265051004123 -88.2589005586501,40.1265050882117</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Hope Church of God in Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="Elevation">765.26330566</SimpleData>
+		<SimpleData name="SHAPESTArea">461.332862762984</SimpleData>
+		<SimpleData name="SHAPESTLength">86.0228172174608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2588125337233,40.1265363597667 -88.2587394892652,40.1265370404463 -88.2587404692141,40.1265990309387 -88.2588135137385,40.1265983502587 -88.2588125337233,40.1265363597667</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Hope Church of God in Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="Elevation">767.06323242</SimpleData>
+		<SimpleData name="SHAPESTArea">11164.3174153014</SimpleData>
+		<SimpleData name="SHAPESTLength">427.815156117658</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2592858069052,40.1267881415029 -88.2591450729086,40.1267888097611 -88.2591449342979,40.1267716960401 -88.2589246984081,40.1267727417721 -88.2589212370512,40.1270753550656 -88.2592881915338,40.1270838813901 -88.2592858069052,40.1267881415029</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Live of Champaign United Pentecostal Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="Elevation">771.94519042</SimpleData>
+		<SimpleData name="SHAPESTArea">3527.59563318525</SimpleData>
+		<SimpleData name="SHAPESTLength">334.491073166775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2631932784733,40.1323485390116 -88.2631943954966,40.1322469504459 -88.2630754406904,40.1322461803595 -88.2630754989083,40.132240918962 -88.2631850130714,40.1322416283924 -88.2631858881005,40.1321620130503 -88.2630461467088,40.1321611078568 -88.2630460197758,40.1321727041867 -88.2630194097954,40.1321725313254 -88.263018811717,40.1322268681803 -88.2630478704639,40.1322270560373 -88.2630476529568,40.1322468461697 -88.2629777821751,40.1322463930602 -88.2629766739147,40.1323471359452 -88.2631932784733,40.1323485390116</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Jericho Missionary Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="Elevation">772.26110839</SimpleData>
+		<SimpleData name="SHAPESTArea">14722.2935874355</SimpleData>
+		<SimpleData name="SHAPESTLength">608.962117534692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2725605867964,40.1375212958293 -88.2725262432975,40.1375444480791 -88.2724968178879,40.1375186244282 -88.2724617797379,40.1375193751468 -88.2724612517241,40.137504875771 -88.2724743183616,40.13749512531 -88.2724609496562,40.1374843909864 -88.2723776440028,40.1374834123232 -88.2723624919378,40.1374960454639 -88.2723794755512,40.1375072491239 -88.2723799623053,40.1375206281058 -88.272321595893,40.1375218798551 -88.2723212477211,40.1375123186786 -88.2720417967819,40.1375183088469 -88.2720455769482,40.1376221929813 -88.2721540453043,40.137619868192 -88.2721619884967,40.1378381550027 -88.2721839638667,40.1378376838756 -88.2721841734485,40.1378434371532 -88.2722354019859,40.1378423384158 -88.2722352485277,40.1378381153229 -88.2722801579831,40.1378371519273 -88.2722778067457,40.1377725401369 -88.2723397547667,40.1377712119422 -88.2723542809385,40.1377827871682 -88.2724412963791,40.1377809218366 -88.2724563333138,40.13777112288 -88.2724964069012,40.1377702640321 -88.2725639924503,40.1378199156291 -88.2725822132411,40.1378044723338 -88.2726005783406,40.1377850924969 -88.2726159360637,40.1377642268568 -88.2726280855097,40.1377421508996 -88.2726368691838,40.1377191536428 -88.2726421694778,40.1376955358332 -88.2726439168856,40.1376716090496 -88.2726420900111,40.1376476857965 -88.2726367120469,40.1376240804026 -88.2726278531262,40.1376011036184 -88.2726156303283,40.1375790554113 -88.2726002029846,40.1375582258639 -88.2725817750312,40.1375388879699 -88.2725605867964,40.1375212958293</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Northside Church of Christ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="Elevation">763.65472412</SimpleData>
+		<SimpleData name="SHAPESTArea">7261.37058354923</SimpleData>
+		<SimpleData name="SHAPESTLength">466.654634268015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2735232350076,40.1396768692984 -88.2735147469028,40.1396880407166 -88.2734696482751,40.1396678561171 -88.2734503964096,40.1396931941336 -88.2734950481316,40.1397131794724 -88.2734498560906,40.139772655619 -88.2738952078608,40.1399719798675 -88.274029870149,40.1397947518174 -88.2739150403889,40.1397433584772 -88.2738533107723,40.1398245997006 -88.2735232350076,40.1396768692984</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Jehovahs Witnesses</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="Elevation">787.78485107</SimpleData>
+		<SimpleData name="SHAPESTArea">8441.58661131384</SimpleData>
+		<SimpleData name="SHAPESTLength">457.283222189034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2892672703039,40.1470717834552 -88.2891724771991,40.1470219935151 -88.2892251017919,40.1469629914653 -88.2891470397826,40.1469219889164 -88.2890999632466,40.1469747706695 -88.2890300913579,40.1469380707281 -88.2889103044026,40.1470723738674 -88.2889768890704,40.1471073479346 -88.2889118384179,40.147180282192 -88.2889617344636,40.1472064904384 -88.2889276682137,40.1472446843643 -88.288966104514,40.1472648729753 -88.2889362948415,40.1472977224565 -88.289013896165,40.1473401677611 -88.2890451417355,40.1473063875688 -88.289053914921,40.1473109957916 -88.2892672703039,40.1470717834552</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Horizon United Methodist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="Elevation">822.87988281</SimpleData>
+		<SimpleData name="SHAPESTArea">206.803920505915</SimpleData>
+		<SimpleData name="SHAPESTLength">58.0671050838207</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2994563475267,40.1542525312496 -88.2994823937084,40.1542805372945 -88.2995304424036,40.1542542271527 -88.2995043962122,40.1542262211185 -88.2994563475267,40.1542525312496</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Horizon United Methodist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="Elevation">827.26623535</SimpleData>
+		<SimpleData name="SHAPESTArea">30553.9659763625</SimpleData>
+		<SimpleData name="SHAPESTLength">985.289173950295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2995627509275,40.1539139027461 -88.2991545512606,40.1535645924435 -88.2988665982074,40.1537627170327 -88.2990767722504,40.1539425716845 -88.2990625372205,40.1539523662022 -88.299023980383,40.1539273707255 -88.2988970956192,40.154039819416 -88.2989929341372,40.154102832634 -88.298932860072,40.1541441667022 -88.2989915535019,40.1541943936058 -88.2990514620238,40.1541531747377 -88.2993406421901,40.1544763721825 -88.2994993952364,40.1543936635475 -88.2992470422494,40.1541129370012 -88.2992658234797,40.1541000150499 -88.2992776049056,40.1541100964367 -88.2995627509275,40.1539139027461</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St John the Divine Episcopal Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="Elevation">785.90002441</SimpleData>
+		<SimpleData name="SHAPESTArea">4565.77475400688</SimpleData>
+		<SimpleData name="SHAPESTLength">333.455559386761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2292951697079,40.1055552345607 -88.2292953451126,40.1055725195299 -88.229092912075,40.1055737262908 -88.2290932219401,40.1056043172275 -88.2290224530913,40.1056047389545 -88.2290229544987,40.1056542702255 -88.2290738674781,40.1056539666217 -88.2290741069102,40.1056776767133 -88.2292592435839,40.1056765733281 -88.2292596279218,40.1057145287484 -88.2294124432284,40.1057136176265 -88.2294108344709,40.1055545449429 -88.2292951697079,40.1055552345607</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Johns Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">112</SimpleData>
+		<SimpleData name="Elevation">769.38000488</SimpleData>
+		<SimpleData name="SHAPESTArea">3259.50640188041</SimpleData>
+		<SimpleData name="SHAPESTLength">232.567113496093</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2307983352193,40.1057650401319 -88.2307478013103,40.1057651412879 -88.2307477962671,40.105763813761 -88.2306234888367,40.1057640611473 -88.2306241126347,40.1059490142199 -88.2307485881245,40.105948766982 -88.2307485684195,40.1059431452582 -88.2307989370818,40.1059430448562 -88.2307983352193,40.1057650401319</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Johns Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="Elevation">745.28997802</SimpleData>
+		<SimpleData name="SHAPESTArea">1573.56256451094</SimpleData>
+		<SimpleData name="SHAPESTLength">173.42742747371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2308956611902,40.1059738507853 -88.2308032253006,40.1059742021996 -88.2308043033855,40.106141259332 -88.2308967395012,40.1061409079171 -88.2308956611902,40.1059738507853</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Johns Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="Elevation">757.04998779</SimpleData>
+		<SimpleData name="SHAPESTArea">2615.40870298116</SimpleData>
+		<SimpleData name="SHAPESTLength">207.94897197566</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2307833825168,40.1060436219819 -88.2306344481685,40.1060449229206 -88.2306345493529,40.1060517326419 -88.2305736614834,40.1060522640465 -88.2305754012262,40.1061697414161 -88.2307852238197,40.1061679090702 -88.2307833825168,40.1060436219819</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Andrew's Lutheran Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="Elevation">750.71002197</SimpleData>
+		<SimpleData name="SHAPESTArea">5070.47980493851</SimpleData>
+		<SimpleData name="SHAPESTLength">345.874302668708</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2291293520369,40.1070821180701 -88.2290613007986,40.1070823162079 -88.2290615794172,40.1071387433558 -88.2293699513931,40.1071378461371 -88.229369098792,40.1069651945374 -88.2292546918834,40.1069655276943 -88.2292546246537,40.106951920081 -88.2291972493787,40.1069520873632 -88.2291973266575,40.1069675583801 -88.2290614789308,40.1069679540244 -88.2290617557137,40.1070240470397 -88.2291290644408,40.1070238509355 -88.2291293520369,40.1070821180701</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lutheran Campus Center</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="Elevation">757.9500122</SimpleData>
+		<SimpleData name="SHAPESTArea">6569.83712730294</SimpleData>
+		<SimpleData name="SHAPESTLength">434.059421960778</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.229879282128,40.1071000318945 -88.229872359284,40.1069670924662 -88.2297598360193,40.1069705466712 -88.2297616173817,40.1070047612311 -88.2297780892739,40.1070042553973 -88.2297904974358,40.1072425333033 -88.2301348353724,40.1072319610528 -88.2301301780051,40.1071425328851 -88.2301897633639,40.1071407027528 -88.2301871531084,40.1070905788109 -88.229879282128,40.1071000318945</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Covenant Fellowship Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="Elevation">761.3460083</SimpleData>
+		<SimpleData name="SHAPESTArea">8447.28863140978</SimpleData>
+		<SimpleData name="SHAPESTLength">389.229524968843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2448088777252,40.1145011032135 -88.2448092677644,40.1148299584479 -88.2450461620244,40.1148273824551 -88.2450396232446,40.1144729141755 -88.2448084042648,40.1144754278471 -88.2448088777252,40.1145011032135</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Matthew Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="Elevation">747.23730468</SimpleData>
+		<SimpleData name="SHAPESTArea">32499.446611265</SimpleData>
+		<SimpleData name="SHAPESTLength">1023.12049378203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2678711999812,40.0958498480328 -88.2675475271954,40.0958546127104 -88.2675490030039,40.0959137370439 -88.2675357663682,40.0959139321671 -88.267536125418,40.0959283379082 -88.2674664345808,40.0959293637435 -88.2674670420304,40.095953709852 -88.2674049786251,40.0959546238062 -88.2674120736545,40.0962389262233 -88.2678623840643,40.0962322981224 -88.2678576417824,40.0962638993606 -88.2677659782877,40.0962675734073 -88.2677247976842,40.0962741588944 -88.2676734483776,40.0963002867224 -88.2676424775987,40.0963445485118 -88.2676386146724,40.0963811090938 -88.2676529499041,40.0964239582694 -88.2676918831265,40.096459430836 -88.2677482869548,40.0964785398757 -88.2681675738139,40.096477497624 -88.2681660598171,40.0964639819569 -88.2681681641342,40.0964622836568 -88.2681926070509,40.0964612670873 -88.2682015552543,40.0964597149342 -88.2682156771663,40.0964511543044 -88.2682286039523,40.0964390229139 -88.2682334575986,40.0964220695289 -88.268217954007,40.0963988678567 -88.2682051777849,40.0963933056039 -88.2681738386481,40.0963925179427 -88.268172031711,40.0963922755581 -88.2681656395354,40.096339048482 -88.2681925205708,40.0963354980178 -88.268194994035,40.0963340683117 -88.2681950424374,40.0962796128 -88.2681939361574,40.0962788052157 -88.2681627394478,40.0962824370106 -88.2681606956954,40.0962636793931 -88.2680905971533,40.096266391349 -88.2680884210696,40.0962658794675 -88.2680461077285,40.0962036591937 -88.2680442996241,40.0962034168064 -88.2679714743963,40.0962332693636 -88.2679707190347,40.0962321782776 -88.2679701458113,40.0961583850415 -88.267984227988,40.0961373858507 -88.2680013601416,40.0961105252935 -88.2680028564657,40.0960787087692 -88.2679902788883,40.0960457765347 -88.2679787414046,40.0960227761049 -88.2679774312763,40.0959702741856 -88.2679093927843,40.095971276002 -88.2679075100961,40.0958958500856 -88.2679075019495,40.095849250712 -88.2678711999812,40.0958498480328</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Christian Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">119</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="SHAPESTArea">51407.5532964343</SimpleData>
+		<SimpleData name="SHAPESTLength">1058.67413759593</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.3157273925804,40.0677371552939 -88.3155827803387,40.0678444534381 -88.3155484767564,40.0678237372439 -88.315315627343,40.0679893869295 -88.3153572795656,40.0680195186385 -88.3152812961157,40.0680778731791 -88.3151587905283,40.0679837145693 -88.3150901607337,40.0680364213746 -88.3153890732494,40.0682642865107 -88.3153596599537,40.0682887584252 -88.3155801693708,40.0684601268387 -88.3156169349817,40.0684356559934 -88.3158300967601,40.0685976093987 -88.3158913744279,40.0685486656948 -88.3158595239719,40.0685185356594 -88.3159379576254,40.0684639466538 -88.3159747106847,40.0684884286395 -88.3161928581734,40.0683171267059 -88.3161634579056,40.068290763558 -88.3162982688424,40.0681796977144 -88.3157273925804,40.0677371552939</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Christian Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">120</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="SHAPESTArea">44277.7526744477</SimpleData>
+		<SimpleData name="SHAPESTLength">1147.15164484068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.3160359646203,40.0679763609982 -88.3161009873523,40.0679255381183 -88.316250637704,40.0680415463681 -88.3163498313327,40.0679660141404 -88.3165088231578,40.0680892636053 -88.3166840924931,40.0679557999566 -88.3165194140636,40.0678281422113 -88.3168268140556,40.0675940626196 -88.316763986092,40.0675453582781 -88.3169034014334,40.0674391954152 -88.3167033281209,40.0672841005426 -88.3165603602737,40.067392968152 -88.3164872507066,40.0673362933772 -88.3161813033821,40.0675692663174 -88.3160198052799,40.0674440733542 -88.3158445512024,40.0675775243039 -88.3160096145295,40.0677054820812 -88.3159179234819,40.0677753006389 -88.3160630844102,40.0678878302183 -88.3159920612478,40.0679423276583 -88.3160359646203,40.0679763609982</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Christian Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">121</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="SHAPESTArea">3077.17288618011</SimpleData>
+		<SimpleData name="SHAPESTLength">234.025711677797</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.3169677512118,40.0684665229996 -88.3170690328104,40.0683893999407 -88.316875102431,40.0682390696945 -88.3167738220086,40.0683161925861 -88.3169677512118,40.0684665229996</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Faith Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">122</SimpleData>
+		<SimpleData name="Elevation">744.35809326</SimpleData>
+		<SimpleData name="SHAPESTArea">2033.84707879771</SimpleData>
+		<SimpleData name="SHAPESTLength">189.41847126851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2407469488994,40.1728526169219 -88.2408647079237,40.1728539538782 -88.2408679812329,40.1726843318793 -88.2407502225016,40.1726829949266 -88.2407469488994,40.1728526169219</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Windsor Road Christian Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="Elevation">747.66613769</SimpleData>
+		<SimpleData name="SHAPESTArea">35394.1924881922</SimpleData>
+		<SimpleData name="SHAPESTLength">1070.90007852885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2874251298242,40.0827238951056 -88.2877107723087,40.0829374769841 -88.2876716020988,40.0829683855691 -88.2876620006513,40.0829612064682 -88.2875879190401,40.0829628416015 -88.2875877472975,40.0829286383234 -88.2872800158953,40.0829320333537 -88.2872811340601,40.0830840177431 -88.2875906819227,40.0830847546152 -88.2875938974322,40.0830822179107 -88.2878246505515,40.0832547568362 -88.287855760387,40.0832302088854 -88.2878975638073,40.0832614663268 -88.2879400094158,40.083227973243 -88.2878985646024,40.0831969843451 -88.2880456387529,40.0830809282678 -88.2879175321628,40.0829851420912 -88.2881762935391,40.0827809516319 -88.2880023879862,40.0826509192528 -88.2880217371373,40.082635649442 -88.2878333944041,40.0824948216148 -88.2878170706838,40.0825077023121 -88.2877564985871,40.0824624119491 -88.2874251298242,40.0827238951056</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Curtis Road Church of God</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="Elevation">762.9389038</SimpleData>
+		<SimpleData name="SHAPESTArea">2371.49208617995</SimpleData>
+		<SimpleData name="SHAPESTLength">212.4009599187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2892192188931,40.069759947382 -88.289222031755,40.069869884956 -88.2893577631274,40.0698678353827 -88.2893579632219,40.0698756925691 -88.2894482991946,40.0698743281425 -88.2894460657886,40.0697870146608 -88.2893702474403,40.0697881603384 -88.2893694663783,40.0697576781636 -88.2892192188931,40.069759947382</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Curtis Road Church of God</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="Elevation">761.83251953</SimpleData>
+		<SimpleData name="SHAPESTArea">139.091201287527</SimpleData>
+		<SimpleData name="SHAPESTLength">47.2189914508013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2894701293126,40.0700276671432 -88.2895104573687,40.0700265449071 -88.289508865974,40.0699927598118 -88.2894685379384,40.0699938811468 -88.2894701293126,40.0700276671432</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Curtis Road Church of God</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="Elevation">770.10223388</SimpleData>
+		<SimpleData name="SHAPESTArea">18446.6773867121</SimpleData>
+		<SimpleData name="SHAPESTLength">682.76221579899</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2900382014915,40.0695968745451 -88.2899649712465,40.0695377756235 -88.2898583511281,40.0695365270148 -88.2897822594213,40.069595527638 -88.2897808581406,40.0696661375355 -88.2897755302312,40.0696660751902 -88.289768445055,40.0700230531897 -88.289788170731,40.0700232848629 -88.2897838372575,40.070241677391 -88.2900260979974,40.0702445151305 -88.2900290538208,40.0700956085092 -88.2900181154191,40.0700954801329 -88.2900195176666,40.0700248225046 -88.2900356597349,40.0700250113667 -88.2900398192206,40.0698153611873 -88.2901069439954,40.0698161472856 -88.2901083751875,40.0697440531561 -88.290035297754,40.0697431972867 -88.2900382014915,40.0695968745451</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Friendship Lutheran Church of Joy</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="Elevation">741.39147949</SimpleData>
+		<SimpleData name="SHAPESTArea">6219.54680200825</SimpleData>
+		<SimpleData name="SHAPESTLength">355.89751073056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2961465771442,40.0689176530169 -88.2961924966714,40.0688895491214 -88.2962284653614,40.0689081469853 -88.2962731460158,40.0688752774181 -88.2962452466802,40.0688466734301 -88.2962781396653,40.0688171351262 -88.2962363574006,40.0687798545107 -88.2960101332963,40.0686094723716 -88.2958546686463,40.0687313145973 -88.2959216304554,40.068781748206 -88.295942222833,40.0687656092271 -88.2961014851415,40.0688855589302 -88.2961465771442,40.0689176530169</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New House of Prayer</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">128</SimpleData>
+		<SimpleData name="Elevation">742.94396972</SimpleData>
+		<SimpleData name="SHAPESTArea">1427.74947449881</SimpleData>
+		<SimpleData name="SHAPESTLength">160.392145507907</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2367549545418,40.1283320349492 -88.2367601580574,40.128331999661 -88.2367603890186,40.1283520197878 -88.2368478714669,40.1283514235415 -88.2368476477048,40.1283321023038 -88.2368546146666,40.1283320549712 -88.2368531771854,40.1282077327638 -88.2367582246344,40.1282083795244 -88.236758372978,40.1282212828648 -88.2367536751552,40.1282213149721 -88.2367549545418,40.1283320349492</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Catholic Diocese oF Peoria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">129</SimpleData>
+		<SimpleData name="Elevation">789.41442871</SimpleData>
+		<SimpleData name="SHAPESTArea">67.2276202406711</SimpleData>
+		<SimpleData name="SHAPESTLength">33.7031997815107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2813179618054,40.161407131314 -88.2813177838826,40.1614249328365 -88.2813548736222,40.1614251503297 -88.2813550503615,40.1614073488066 -88.2813179618054,40.161407131314</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Catholic Diocese oF Peoria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">130</SimpleData>
+		<SimpleData name="Elevation">782.64160156</SimpleData>
+		<SimpleData name="SHAPESTArea">124.350763383045</SimpleData>
+		<SimpleData name="SHAPESTLength">44.6515512333262</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2785906287394,40.1615630974932 -88.2785910231418,40.1615923407238 -88.2786327829615,40.1615920092183 -88.278632387368,40.1615627650867 -88.2785906287394,40.1615630974932</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Catholic Diocese oF Peoria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="Elevation">782.28131103</SimpleData>
+		<SimpleData name="SHAPESTArea">996.359465627777</SimpleData>
+		<SimpleData name="SHAPESTLength">128.325656137427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2804052295978,40.1622029732517 -88.2803109590275,40.162203668628 -88.2803122587382,40.1623074653566 -88.2804065306259,40.1623067699799 -88.2804052295978,40.1622029732517</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Catholic Diocese oF Peoria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="Elevation">799.93426513</SimpleData>
+		<SimpleData name="SHAPESTArea">4688.91776271169</SimpleData>
+		<SimpleData name="SHAPESTLength">291.352475998562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2814390850933,40.1621636609524 -88.2811793852332,40.1621554999572 -88.2811790198036,40.1621667097752 -88.2811339444174,40.1621658464858 -88.2811303162878,40.1622773934975 -88.2811535477574,40.1622778380664 -88.2811529214554,40.1622970686633 -88.2812178101822,40.1622983110184 -88.2812169819349,40.1623237602866 -88.2813682477771,40.1623266571101 -88.281368949781,40.1623050534197 -88.2814344453948,40.1623063076338 -88.2814390850933,40.1621636609524</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Catholic Diocese oF Peoria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">133</SimpleData>
+		<SimpleData name="Elevation">790.08746337</SimpleData>
+		<SimpleData name="SHAPESTArea">54163.7500711651</SimpleData>
+		<SimpleData name="SHAPESTLength">1466.6979539874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2789948381609,40.1620865375172 -88.2787648700678,40.1620859475383 -88.2787651114248,40.162030801958 -88.2787978501193,40.162030885829 -88.278798044269,40.1619862927582 -88.2787383950879,40.1619861394632 -88.2787384626704,40.1619706443753 -88.2786530709817,40.161970424859 -88.2786547022259,40.1615963398323 -88.2783747629407,40.1615956209991 -88.2783744087194,40.1616767988721 -88.2781251813554,40.1616735308517 -88.2781247172873,40.1617798160789 -88.2779857929077,40.1617819472629 -88.2780276398601,40.1618277258206 -88.2780532945365,40.1618738010421 -88.2780631192302,40.1619221067364 -88.2780630803763,40.1619309363695 -88.278031827824,40.1619308557024 -88.2780316229087,40.1619779722967 -88.277998115464,40.1619821072335 -88.2779980216032,40.162003737313 -88.2780564829993,40.1620124021559 -88.2780169120834,40.1621806023457 -88.2780390462593,40.1621806588493 -88.2779800308352,40.1624247276328 -88.278079030912,40.1624403348804 -88.2780740357225,40.1624596687473 -88.2781136364471,40.1624662432319 -88.2781136031974,40.1624739588033 -88.2782137321154,40.1624887514154 -88.2783082372886,40.1621034600908 -88.2784403026674,40.1621037992642 -88.2784401111582,40.162147737586 -88.2784630834539,40.1621477971077 -88.2784619491394,40.1624078011539 -88.2786270568393,40.1624082251156 -88.278627281249,40.1623567846698 -88.2789936570493,40.1623577245135 -88.2789948381609,40.1620865375172</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Catholic Diocese oF Peoria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="Elevation">781.2144165</SimpleData>
+		<SimpleData name="SHAPESTArea">168.737727902341</SimpleData>
+		<SimpleData name="SHAPESTLength">53.1803833624595</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2805890673571,40.1627321580226 -88.2806265009221,40.1627319255972 -88.2806260339164,40.1626876555491 -88.2805885992011,40.1626878888744 -88.2805890673571,40.1627321580226</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Catholic Diocese oF Peoria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">135</SimpleData>
+		<SimpleData name="Elevation">781.85449218</SimpleData>
+		<SimpleData name="SHAPESTArea">255.87971665621</SimpleData>
+		<SimpleData name="SHAPESTLength">77.7247103051549</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2812222534753,40.1627248191932 -88.2812216606551,40.1627478729239 -88.2813306328442,40.1627495223126 -88.2813312256275,40.1627264685814 -88.2812222534753,40.1627248191932</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Catholic Diocese oF Peoria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">136</SimpleData>
+		<SimpleData name="Elevation">781.66119384</SimpleData>
+		<SimpleData name="SHAPESTArea">188.325789830306</SimpleData>
+		<SimpleData name="SHAPESTLength">61.154244462608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2779664003107,40.1629286362186 -88.2779664528516,40.1629521054247 -88.2780452664948,40.1629520016871 -88.2780452139266,40.162928532481 -88.2779664003107,40.1629286362186</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Catholic Diocese oF Peoria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">137</SimpleData>
+		<SimpleData name="Elevation">783.56152343</SimpleData>
+		<SimpleData name="SHAPESTArea">261.185249805539</SimpleData>
+		<SimpleData name="SHAPESTLength">80.380965181753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2815643894825,40.1629147326939 -88.2815352489487,40.1629137505977 -88.281530220227,40.1630016134532 -88.2815593607983,40.1630025955508 -88.2815643894825,40.1629147326939</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Catholic Diocese oF Peoria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">138</SimpleData>
+		<SimpleData name="Elevation">779.66967773</SimpleData>
+		<SimpleData name="SHAPESTArea">171.674009307545</SimpleData>
+		<SimpleData name="SHAPESTLength">59.8176039230854</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2782932306191,40.1631167850464 -88.2782655155548,40.1631167259373 -88.2782652961882,40.163177564317 -88.2782930112773,40.1631776234262 -88.2782932306191,40.1631167850464</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Judah Christian School</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">139</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="SHAPESTArea">100.417954766119</SimpleData>
+		<SimpleData name="SHAPESTLength">40.0951441117315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2572180476375,40.124727575512 -88.2571817993094,40.1247261872397 -88.2571814130807,40.1247537424468 -88.2572162403619,40.1247554017735 -88.2572180476375,40.124727575512</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Unity Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">140</SimpleData>
+		<SimpleData name="Elevation">743.15014648</SimpleData>
+		<SimpleData name="SHAPESTArea">6184.06300552807</SimpleData>
+		<SimpleData name="SHAPESTLength">352.116295490329</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.294926993596,40.1121706874136 -88.2949254104668,40.1120323193567 -88.2946989562491,40.1120338471548 -88.2946988154548,40.112021470718 -88.2946600807355,40.1120217315812 -88.2946602037073,40.112032426545 -88.2944922902755,40.1120335591831 -88.294493892684,40.1121736096199 -88.294926993596,40.1121706874136</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St Johns Catholic Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">141</SimpleData>
+		<SimpleData name="Elevation">816.34002685</SimpleData>
+		<SimpleData name="SHAPESTArea">45601.8208340978</SimpleData>
+		<SimpleData name="SHAPESTLength">1729.4115730774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2296144810805,40.1056160916213 -88.2295944032535,40.1056163699467 -88.229641089824,40.1066739337417 -88.2296776182389,40.1066734287638 -88.2296779530969,40.1066877282975 -88.229801503214,40.1066860195343 -88.2298010394363,40.1066662215657 -88.2298404321296,40.1066656767672 -88.2298305726439,40.106245499937 -88.2299405137643,40.1062439788022 -88.2299477790894,40.1065536132109 -88.2300197602173,40.1065526165005 -88.2300201734288,40.1065702168967 -88.2301082705413,40.1065689976404 -88.2301079609055,40.1065557995952 -88.2301441303407,40.1065552986533 -88.230135927413,40.1062057936194 -88.2300721828791,40.1062066752604 -88.2300721057662,40.1062033752988 -88.229956435014,40.1062049752031 -88.2299566675103,40.1062148741884 -88.2298649899358,40.1062161423676 -88.2298628095995,40.1061231967408 -88.2301604018022,40.1061190788559 -88.2301572909645,40.1059865390926 -88.2301798519552,40.1059862268562 -88.2301778067382,40.1058990570651 -88.2301602588021,40.1058992999153 -88.2301536823479,40.1056190895452 -88.2301182300553,40.1056195803219 -88.2301171776929,40.1055747579367 -88.2299603249134,40.1055769281621 -88.2299614542826,40.1056250487092 -88.2299245686935,40.1056255588619 -88.2299300985873,40.1058612206553 -88.2297861377873,40.1058632121207 -88.229780305445,40.1056146251686 -88.2297552380728,40.1056149720117 -88.2297543346961,40.1055764739514 -88.2296135964665,40.1055784203513 -88.2296144810805,40.1056160916213</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Midwest Believers Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">142</SimpleData>
+		<SimpleData name="Elevation">732.49151611</SimpleData>
+		<SimpleData name="SHAPESTArea">15332.0177161984</SimpleData>
+		<SimpleData name="SHAPESTLength">668.467257772938</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2941236367421,40.0944132143693 -88.2942846901962,40.0944876867485 -88.2943545854265,40.0945814476311 -88.2945250502317,40.0945075750322 -88.2944562198173,40.0944135128983 -88.2944574209181,40.0943677046682 -88.294615270613,40.0943701442004 -88.2946166046776,40.0943192132416 -88.2944595513493,40.0943167856867 -88.2944608291787,40.0942680234222 -88.2945314404268,40.0941789101566 -88.2943652074666,40.0941007005698 -88.294291471343,40.094195147101 -88.2941301335533,40.094263834833 -88.2939454966499,40.0942609811526 -88.2939415805046,40.0944103993825 -88.2941236367421,40.0944132143693</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Muslim Reading Room</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">143</SimpleData>
+		<SimpleData name="Elevation">750.83679199</SimpleData>
+		<SimpleData name="SHAPESTArea">1154.88065639205</SimpleData>
+		<SimpleData name="SHAPESTLength">156.387282403246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2315239829695,40.1253174461551 -88.2315246454474,40.1253939969726 -88.231524567688,40.1254461231495 -88.2315739177126,40.1254456324516 -88.2315731422426,40.1253976141662 -88.2316372852473,40.1253972219973 -88.2316357321346,40.1253175443366 -88.2315239829695,40.1253174461551</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Church of the Living God Pillar and Ground of the Truth</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">144</SimpleData>
+		<SimpleData name="Elevation">0</SimpleData>
+		<SimpleData name="SHAPESTArea">27539.9911388121</SimpleData>
+		<SimpleData name="SHAPESTLength">751.635392112931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2340760693828,40.1277941878775 -88.2340743646543,40.1278990341758 -88.2340836768511,40.1278990421566 -88.2340864884687,40.1281003994154 -88.2340771779775,40.1280991999129 -88.23406919671,40.1282505075359 -88.2346574630861,40.1282474356801 -88.2346607622315,40.1281128044539 -88.2346421383292,40.1281115970615 -88.234639334861,40.1279042822057 -88.2346579558106,40.1279066811196 -88.2346565753144,40.1277887263263 -88.2345060193449,40.127787406426 -88.234505993463,40.1278052783553 -88.2344345940229,40.1278064089291 -88.234436246395,40.127737306482 -88.2344393646581,40.127727776957 -88.2342705495879,40.1277246714345 -88.234273162675,40.1278134201028 -88.2342048768871,40.1278074040574 -88.2341956677946,40.127788120153 -88.2340760693828,40.1277941878775</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Faith Baptist Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">145</SimpleData>
+		<SimpleData name="Elevation">745.50341796</SimpleData>
+		<SimpleData name="SHAPESTArea">19316.4166845147</SimpleData>
+		<SimpleData name="SHAPESTLength">871.972963261703</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2402785596771,40.1728176442821 -88.2406839395001,40.172813679746 -88.2406841718291,40.172642827779 -88.2402713418107,40.1726439259737 -88.2402759332069,40.1726939705602 -88.2401880699623,40.1726953381919 -88.2401869477069,40.1725879019711 -88.2404069014388,40.1725865494683 -88.2404049075448,40.172395736268 -88.2400147466128,40.172398134217 -88.2400191027714,40.1728152352618 -88.2401893116307,40.1728141889067 -88.2401888537795,40.1727703735977 -88.2402786289986,40.1727668883541 -88.2402785596771,40.1728176442821</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Judah Christian School</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">146</SimpleData>
+		<SimpleData name="Elevation">792.11950683</SimpleData>
+		<SimpleData name="SHAPESTArea">44818.0462065512</SimpleData>
+		<SimpleData name="SHAPESTLength">1466.7463858155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2574935834681,40.1245373879817 -88.2572519570678,40.1245390901919 -88.2572559641856,40.1248742866916 -88.2573375465828,40.1248737116183 -88.2573380553235,40.1249162465737 -88.2573505454617,40.1249161584021 -88.2573511079043,40.1249631550785 -88.2569153969926,40.1249662241256 -88.2569137719332,40.1248301524323 -88.2566046020828,40.1248323283635 -88.2566128221688,40.1255206510887 -88.2569376190942,40.1255183647625 -88.2569373005093,40.1254916872022 -88.2570271467295,40.1254910547552 -88.2570244442341,40.1252649092682 -88.2569756941978,40.1252652526969 -88.2569742352279,40.1251431533852 -88.2573496152194,40.1251405101732 -88.257349936094,40.12516738227 -88.2573918778177,40.1251670864557 -88.2573919658271,40.1251744509071 -88.2574897555528,40.125173762067 -88.2574885147205,40.1250699122251 -88.2574974371064,40.1250698487199 -88.2574969401179,40.1250282612293 -88.2574862625932,40.1250283361939 -88.2574850485666,40.124926764943 -88.25740311414,40.1249273425912 -88.2574029638838,40.1249147643924 -88.2574156804539,40.124914674561 -88.2574152027917,40.1248747433272 -88.2574976099639,40.1248741623775 -88.2574935834681,40.1245373879817</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Judah Christian School</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">147</SimpleData>
+		<SimpleData name="Elevation">769.09527587</SimpleData>
+		<SimpleData name="SHAPESTArea">851.154877381285</SimpleData>
+		<SimpleData name="SHAPESTLength">117.374663973458</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2562903942823,40.1255850117095 -88.256384068118,40.1255840031453 -88.2563824381605,40.1254948250881 -88.256288763274,40.1254958336504 -88.2562903942823,40.1255850117095</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Seventh-Day Adventist School</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">148</SimpleData>
+		<SimpleData name="Elevation">717.64550781</SimpleData>
+		<SimpleData name="SHAPESTArea">3864.17581266417</SimpleData>
+		<SimpleData name="SHAPESTLength">248.827571425855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.3305065439298,40.1268742764564 -88.3307373934803,40.1268726553354 -88.3307354345435,40.1267083483681 -88.3305045855488,40.1267099694852 -88.3305065439298,40.1268742764564</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Seventh-Day Adventist School</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">149</SimpleData>
+		<SimpleData name="Elevation">715.49139404</SimpleData>
+		<SimpleData name="SHAPESTArea">894.044732078834</SimpleData>
+		<SimpleData name="SHAPESTLength">119.928897168275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.3311528532163,40.1270671461859 -88.3311528779434,40.1269909111706 -88.331037752768,40.1269908891326 -88.331037726739,40.1270671232472 -88.3311528532163,40.1270671461859</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Restoration Urban Ministries</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">150</SimpleData>
+		<SimpleData name="Elevation">765.10601806</SimpleData>
+		<SimpleData name="SHAPESTArea">7183.36433873911</SimpleData>
+		<SimpleData name="SHAPESTLength">347.862102995105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2781462045524,40.1282883033005 -88.2781463527562,40.1284735461066 -88.2785270339028,40.1284733657327 -88.2785268834923,40.1282881229259 -88.2781462045524,40.1282883033005</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Restoration Urban Ministries</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">151</SimpleData>
+		<SimpleData name="Elevation">766.14447021</SimpleData>
+		<SimpleData name="SHAPESTArea">9003.11246740572</SimpleData>
+		<SimpleData name="SHAPESTLength">438.352856988642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2778452983962,40.1286482058721 -88.278089736898,40.1286482254618 -88.2780897695327,40.1284035605768 -88.2780553245453,40.1284035576506 -88.2780553274865,40.1283782006259 -88.2780688177897,40.1283782016603 -88.2780688294304,40.1282899406612 -88.2780536050479,40.1282899396997 -88.2780536082262,40.1282657390739 -88.2780172109837,40.128265736105 -88.2780172123389,40.1282553798475 -88.277909830986,40.1282553717388 -88.2779098285444,40.1282670456065 -88.2778711164358,40.1282670423846 -88.2778711129218,40.1282944636363 -88.277859075146,40.1282944632746 -88.2778590637504,40.1283777591419 -88.2778731770617,40.1283777604975 -88.2778731745425,40.128402515006 -88.2778453327436,40.1284025124773 -88.2778452983962,40.1286482058721</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Restoration Urban Ministries</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">152</SimpleData>
+		<SimpleData name="Elevation">764.52789306</SimpleData>
+		<SimpleData name="SHAPESTArea">8193.60204325619</SimpleData>
+		<SimpleData name="SHAPESTLength">423.96517152635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2789239430014,40.1292172985839 -88.2794640631591,40.1292242661163 -88.2794677244187,40.1290570339524 -88.2791055583203,40.1290523627278 -88.2791043395999,40.1291080593471 -88.2789263843714,40.1291057639547 -88.2789239430014,40.1292172985839</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Church of the Nazarene</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="Elevation">730.35864257</SimpleData>
+		<SimpleData name="SHAPESTArea">1487.44668672915</SimpleData>
+		<SimpleData name="SHAPESTLength">166.356281956377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2860776841283,40.0975274347513 -88.2861729766502,40.0975256813392 -88.2861716388368,40.0974827956232 -88.2861798915354,40.0974826440751 -88.2861786294466,40.0974421819778 -88.2861715788292,40.0974423114996 -88.2861695376721,40.097376909813 -88.2860730444552,40.0973786852482 -88.2860776841283,40.0975274347513</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>First Church of the Nazarene</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">154</SimpleData>
+		<SimpleData name="Elevation">757.17321777</SimpleData>
+		<SimpleData name="SHAPESTArea">8561.56844827156</SimpleData>
+		<SimpleData name="SHAPESTLength">459.321380522373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2869664356537,40.0977497346023 -88.2869659064235,40.0978037711268 -88.2869315532301,40.0978035727418 -88.2869308639668,40.0978739006484 -88.2869717364869,40.0978741367675 -88.2869919024649,40.0978906245147 -88.2869094220699,40.0979557617769 -88.2869709075415,40.0980017337032 -88.286970680684,40.0980249589879 -88.2869086012729,40.0980246008918 -88.2869080757798,40.0980782447416 -88.2870326357798,40.0980789637632 -88.2870861493713,40.0981244785246 -88.2872049324138,40.098024546358 -88.2872051239039,40.0980049505866 -88.287271860203,40.0979567476535 -88.2871625558041,40.097874131027 -88.2871637625995,40.0977508743606 -88.2869664356537,40.0977497346023</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Salvation Army</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">155</SimpleData>
+		<SimpleData name="Elevation">780.65759277</SimpleData>
+		<SimpleData name="SHAPESTArea">14184.0157075212</SimpleData>
+		<SimpleData name="SHAPESTLength">759.515440559358</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2568409972939,40.1205142859486 -88.2568512317413,40.1205142990119 -88.2568511444723,40.1205555403123 -88.2571807621639,40.1205559529464 -88.2571808313992,40.1205233369065 -88.2574282847532,40.1205236461487 -88.2574281573036,40.1205833997423 -88.257654042731,40.1205836808556 -88.2576541034059,40.1205554076172 -88.2576869195898,40.1205554479688 -88.2576870087546,40.1205130989017 -88.2577054434306,40.1205131217483 -88.257705549453,40.120462958881 -88.2576240376041,40.1204628569925 -88.2576242988198,40.1203394600123 -88.2574964694389,40.1203393007288 -88.2574962255977,40.1204542426652 -88.2574617389179,40.120454199364 -88.2574617195182,40.1204632091904 -88.2574390897212,40.1204631808542 -88.2574391960644,40.1204129054091 -88.2571443038668,40.1204125361732 -88.2571444144339,40.1203607729004 -88.2568413246007,40.1203603929971 -88.2568409972939,40.1205142859486</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Glory Center Intl</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">156</SimpleData>
+		<SimpleData name="Elevation">778.73327636</SimpleData>
+		<SimpleData name="SHAPESTArea">9857.76312485966</SimpleData>
+		<SimpleData name="SHAPESTLength">401.943161794702</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2703051849234,40.1384080872518 -88.2703943687701,40.1382661051362 -88.2700212443224,40.1381280446015 -88.2698890598966,40.1383384815948 -88.2702625488721,40.1384766760409 -88.2702695305992,40.1384655616782 -88.2703051849234,40.1384080872518</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Glory Center Intl</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">157</SimpleData>
+		<SimpleData name="Elevation">780.24993896</SimpleData>
+		<SimpleData name="SHAPESTArea">8663.36846633084</SimpleData>
+		<SimpleData name="SHAPESTLength">440.259940243932</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2702695305992,40.1384655616782 -88.2703308398771,40.1384882465648 -88.2702237035402,40.1386588090534 -88.2704095475644,40.1387275726155 -88.2706322190707,40.1383730775214 -88.2704494397791,40.1383054480572 -88.2703699218019,40.138432041157 -88.2703051849234,40.1384080872518 -88.2702695305992,40.1384655616782</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Church Of Scientology</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="Elevation">759.53112792</SimpleData>
+		<SimpleData name="SHAPESTArea">910.171666106152</SimpleData>
+		<SimpleData name="SHAPESTLength">121.763320726846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2479118455171,40.1091147725153 -88.2478175388871,40.1091135834485 -88.247815513097,40.1092082755072 -88.2479098210307,40.1092094645766 -88.2479118455171,40.1091147725153</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Chabad Jewish Center</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">159</SimpleData>
+		<SimpleData name="Elevation">741.92999267</SimpleData>
+		<SimpleData name="SHAPESTArea">2401.08439266536</SimpleData>
+		<SimpleData name="SHAPESTLength">214.392388343676</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2337755336364,40.1116417197638 -88.2337755143953,40.1117393871172 -88.2338159167809,40.1117393912173 -88.2338159156939,40.1117465755013 -88.2339313294745,40.1117465890494 -88.2339313347045,40.111724464302 -88.234022213072,40.1117244747127 -88.2340222289979,40.1116417478232 -88.2337755336364,40.1116417197638</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Center Of Hope Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">160</SimpleData>
+		<SimpleData name="Elevation">746.85949707</SimpleData>
+		<SimpleData name="SHAPESTArea">1092.02074060866</SimpleData>
+		<SimpleData name="SHAPESTLength">140.627759880803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2329778110866,40.1232289428441 -88.2329782547126,40.1232463864972 -88.2329655511806,40.1232465763278 -88.2329682882526,40.1233542617026 -88.2330566757885,40.1233529377957 -88.2330539319416,40.1232449777269 -88.2330467741792,40.1232450850077 -88.2330463383444,40.1232279160516 -88.2329778110866,40.1232289428441</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Center Of Hope Church</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">161</SimpleData>
+		<SimpleData name="Elevation">743.61376953</SimpleData>
+		<SimpleData name="SHAPESTArea">282.563480868436</SimpleData>
+		<SimpleData name="SHAPESTLength">69.0142931314043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2330932939475,40.1234204045504 -88.233141065403,40.1234193381209 -88.2331388663688,40.1233613243825 -88.2330910961257,40.1233623917129 -88.2330932939475,40.1234204045504</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CATHOLIC WORKER HOUSE OF ST JUDE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">162</SimpleData>
+		<SimpleData name="Elevation">744.59521484</SimpleData>
+		<SimpleData name="SHAPESTArea">622.653089488205</SimpleData>
+		<SimpleData name="SHAPESTLength">99.9059926538586</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2458441605367,40.1131293685178 -88.2458440181918,40.11306377771 -88.2457508469782,40.1130638973256 -88.2457509904065,40.1131294881344 -88.2458441605367,40.1131293685178</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CATHOLIC WORKER HOUSE OF ST JUDE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">163</SimpleData>
+		<SimpleData name="Elevation">746.265625</SimpleData>
+		<SimpleData name="SHAPESTArea">1468.45167772619</SimpleData>
+		<SimpleData name="SHAPESTLength">154.51317568089</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2460221662699,40.1130981583974 -88.2458774896468,40.1130979762946 -88.2458772746524,40.1131989721925 -88.245998372794,40.1131991248108 -88.2459983906483,40.1131906688585 -88.2460219693397,40.1131906992441 -88.2460221662699,40.1130981583974</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CATHOLIC WORKER HOUSE OF ST JUDE</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Religious_Structures">
+		<SimpleData name="OBJECTID">164</SimpleData>
+		<SimpleData name="Elevation">758.29998779</SimpleData>
+		<SimpleData name="SHAPESTArea">1756.78146578073</SimpleData>
+		<SimpleData name="SHAPESTLength">174.21367696691</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2453205328107,40.113263118057 -88.2454769823291,40.1132613383189 -88.2454768129669,40.1132525706086 -88.2455131569875,40.1132521568652 -88.2455115678412,40.113169856571 -88.2453187757265,40.1131720509515 -88.2453205328107,40.113263118057</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
